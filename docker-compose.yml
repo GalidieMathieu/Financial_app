@@ -6,8 +6,8 @@ services:
     restart: always
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: mathieu1801
-      POSTGRES_DB: financial_data
+      POSTGRES_PASSWORD: <your_password>
+      POSTGRES_DB: <your_DataBaseName>
     ports:
       - "5432:5432"
     volumes:
@@ -28,7 +28,7 @@ services:
     depends_on:
       - db
     environment:
-      - DATABASE_URL=postgres://postgres:mathieu1801@db:5432/financial_data
+      - DATABASE_URL=postgres://postgres:<your_password>@db:5432/<your_DataBaseName>
       - DJANGO_SETTINGS_MODULE=financial_project.settings
 
 volumes:

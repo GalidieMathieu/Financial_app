@@ -1,5 +1,10 @@
 # Project README
 
+Issue with deployement, Change in "./docker_compose.yml" and "./financial_project/setting.py" <your_password> and <your_DataBaseName> so it can work locally with your PostGreDataBase.
+launch two py script : 
+- python manage.py makemigrations stocks
+- python manage.py migrate 
+
 ## Overview
 This project is a Django-based financial backtesting and reporting system. It includes several key functionalities such as fetching stock data, performing backtests, and generating detailed backtest reports in PDF format. All components run within a Docker environment managed by Docker Compose.
 
