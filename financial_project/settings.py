@@ -92,7 +92,7 @@ WSGI_APPLICATION = 'financial_project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
-url = urlparse(os.getenv('DATABASE_URL', 'postgres://postgres:mathieu1801@db:5432/financial_data'))
+url = urlparse(os.getenv('DATABASE_URL', 'postgres://postgres:p03dc067b73aa5fa45972dc5b17a166634b5110c555ef45cad5cd2fe3e83cdf04@db:5432/d3vb68ruqp6naq'))
 
 DATABASES = {
     'default': {

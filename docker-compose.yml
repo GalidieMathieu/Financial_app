@@ -5,9 +5,9 @@ services:
     image: postgres:latest
     restart: always
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: mathieu1801
-      POSTGRES_DB: financial_data
+      POSTGRES_USER: u9p5jdagqk5m5l
+      POSTGRES_PASSWORD: p03dc067b73aa5fa45972dc5b17a166634b5110c555ef45cad5cd2fe3e83cdf04
+      POSTGRES_DB: d3vb68ruqp6naq
     ports:
       - "5432:5432"
     volumes:
@@ -28,7 +28,7 @@ services:
     depends_on:
       - db
     environment:
-      - DATABASE_URL=postgres://postgres:mathieu1801@db:5432/financial_data
+      - DATABASE_URL=postgres://postgres:p03dc067b73aa5fa45972dc5b17a166634b5110c555ef45cad5cd2fe3e83cdf04@db:5432/d3vb68ruqp6naq
       - DJANGO_SETTINGS_MODULE=financial_project.settings
 
 volumes:
