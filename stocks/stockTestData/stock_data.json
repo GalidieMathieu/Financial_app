@@ -1,0 +1,3509 @@
+{
+    "2024-10-21": {
+      "open_price": "234.4500",
+      "high_price": "236.8500",
+      "low_price": "234.4500",
+      "close_price": "236.4800",
+      "volume": "36254470"
+    },
+    "2024-10-18": {
+      "open_price": "236.1800",
+      "high_price": "236.1800",
+      "low_price": "234.0100",
+      "close_price": "235.0000",
+      "volume": "46431472"
+    },
+    "2024-10-17": {
+      "open_price": "233.4300",
+      "high_price": "233.8500",
+      "low_price": "230.5200",
+      "close_price": "232.1500",
+      "volume": "32993810"
+    },
+    "2024-10-16": {
+      "open_price": "231.6000",
+      "high_price": "232.1200",
+      "low_price": "229.8400",
+      "close_price": "231.7800",
+      "volume": "34082240"
+    },
+    "2024-10-15": {
+      "open_price": "233.6100",
+      "high_price": "237.4900",
+      "low_price": "232.3700",
+      "close_price": "233.8500",
+      "volume": "64751367"
+    },
+    "2024-10-14": {
+      "open_price": "228.7000",
+      "high_price": "231.7300",
+      "low_price": "228.6000",
+      "close_price": "231.3000",
+      "volume": "39882085"
+    },
+    "2024-10-11": {
+      "open_price": "229.3000",
+      "high_price": "229.4100",
+      "low_price": "227.3400",
+      "close_price": "227.5500",
+      "volume": "31759188"
+    },
+    "2024-10-10": {
+      "open_price": "227.7800",
+      "high_price": "229.5000",
+      "low_price": "227.1700",
+      "close_price": "229.0400",
+      "volume": "28183544"
+    },
+    "2024-10-09": {
+      "open_price": "225.2300",
+      "high_price": "229.7500",
+      "low_price": "224.8300",
+      "close_price": "229.5400",
+      "volume": "33591091"
+    },
+    "2024-10-08": {
+      "open_price": "224.3000",
+      "high_price": "225.9800",
+      "low_price": "223.2500",
+      "close_price": "225.7700",
+      "volume": "31855693"
+    },
+    "2024-10-07": {
+      "open_price": "224.5000",
+      "high_price": "225.6900",
+      "low_price": "221.3300",
+      "close_price": "221.6900",
+      "volume": "39505354"
+    },
+    "2024-10-04": {
+      "open_price": "227.9000",
+      "high_price": "228.0000",
+      "low_price": "224.1300",
+      "close_price": "226.8000",
+      "volume": "37345098"
+    },
+    "2024-10-03": {
+      "open_price": "225.1400",
+      "high_price": "226.8050",
+      "low_price": "223.3200",
+      "close_price": "225.6700",
+      "volume": "34044158"
+    },
+    "2024-10-02": {
+      "open_price": "225.8900",
+      "high_price": "227.3700",
+      "low_price": "223.0200",
+      "close_price": "226.7800",
+      "volume": "32880605"
+    },
+    "2024-10-01": {
+      "open_price": "229.5200",
+      "high_price": "229.6500",
+      "low_price": "223.7400",
+      "close_price": "226.2100",
+      "volume": "63285048"
+    },
+    "2024-09-30": {
+      "open_price": "230.0400",
+      "high_price": "233.0000",
+      "low_price": "229.6500",
+      "close_price": "233.0000",
+      "volume": "54793391"
+    },
+    "2024-09-27": {
+      "open_price": "228.4600",
+      "high_price": "229.5200",
+      "low_price": "227.3000",
+      "close_price": "227.7900",
+      "volume": "34025967"
+    },
+    "2024-09-26": {
+      "open_price": "227.3000",
+      "high_price": "228.5000",
+      "low_price": "225.4100",
+      "close_price": "227.5200",
+      "volume": "36636707"
+    },
+    "2024-09-25": {
+      "open_price": "224.9300",
+      "high_price": "227.2900",
+      "low_price": "224.0200",
+      "close_price": "226.3700",
+      "volume": "42308715"
+    },
+    "2024-09-24": {
+      "open_price": "228.6450",
+      "high_price": "229.3500",
+      "low_price": "225.7300",
+      "close_price": "227.3700",
+      "volume": "43556068"
+    },
+    "2024-09-23": {
+      "open_price": "227.3400",
+      "high_price": "229.4500",
+      "low_price": "225.8100",
+      "close_price": "226.4700",
+      "volume": "54146023"
+    },
+    "2024-09-20": {
+      "open_price": "229.9700",
+      "high_price": "233.0900",
+      "low_price": "227.6200",
+      "close_price": "228.2000",
+      "volume": "318679888"
+    },
+    "2024-09-19": {
+      "open_price": "224.9900",
+      "high_price": "229.8200",
+      "low_price": "224.6300",
+      "close_price": "228.8700",
+      "volume": "66781315"
+    },
+    "2024-09-18": {
+      "open_price": "217.5500",
+      "high_price": "222.7100",
+      "low_price": "217.5400",
+      "close_price": "220.6900",
+      "volume": "59894928"
+    },
+    "2024-09-17": {
+      "open_price": "215.7500",
+      "high_price": "216.9000",
+      "low_price": "214.5000",
+      "close_price": "216.7900",
+      "volume": "45519339"
+    },
+    "2024-09-16": {
+      "open_price": "216.5400",
+      "high_price": "217.2200",
+      "low_price": "213.9200",
+      "close_price": "216.3200",
+      "volume": "59357427"
+    },
+    "2024-09-13": {
+      "open_price": "223.5800",
+      "high_price": "224.0400",
+      "low_price": "221.9100",
+      "close_price": "222.5000",
+      "volume": "36766619"
+    },
+    "2024-09-12": {
+      "open_price": "222.5000",
+      "high_price": "223.5500",
+      "low_price": "219.8200",
+      "close_price": "222.7700",
+      "volume": "37498225"
+    },
+    "2024-09-11": {
+      "open_price": "221.4550",
+      "high_price": "223.0900",
+      "low_price": "217.8900",
+      "close_price": "222.6600",
+      "volume": "44587072"
+    },
+    "2024-09-10": {
+      "open_price": "218.9200",
+      "high_price": "221.4800",
+      "low_price": "216.7300",
+      "close_price": "220.1100",
+      "volume": "51591033"
+    },
+    "2024-09-09": {
+      "open_price": "220.8200",
+      "high_price": "221.2700",
+      "low_price": "216.7100",
+      "close_price": "220.9100",
+      "volume": "67179965"
+    },
+    "2024-09-06": {
+      "open_price": "223.9500",
+      "high_price": "225.2400",
+      "low_price": "219.7700",
+      "close_price": "220.8200",
+      "volume": "48423011"
+    },
+    "2024-09-05": {
+      "open_price": "221.6250",
+      "high_price": "225.4800",
+      "low_price": "221.5200",
+      "close_price": "222.3800",
+      "volume": "36615398"
+    },
+    "2024-09-04": {
+      "open_price": "221.6600",
+      "high_price": "221.7800",
+      "low_price": "217.4800",
+      "close_price": "220.8500",
+      "volume": "43262758"
+    },
+    "2024-09-03": {
+      "open_price": "228.5500",
+      "high_price": "229.0000",
+      "low_price": "221.1700",
+      "close_price": "222.7700",
+      "volume": "50190574"
+    },
+    "2024-08-30": {
+      "open_price": "230.1900",
+      "high_price": "230.4000",
+      "low_price": "227.4800",
+      "close_price": "229.0000",
+      "volume": "52990770"
+    },
+    "2024-08-29": {
+      "open_price": "230.1000",
+      "high_price": "232.9200",
+      "low_price": "228.8800",
+      "close_price": "229.7900",
+      "volume": "51906297"
+    },
+    "2024-08-28": {
+      "open_price": "227.9200",
+      "high_price": "229.8600",
+      "low_price": "225.6800",
+      "close_price": "226.4900",
+      "volume": "38052167"
+    },
+    "2024-08-27": {
+      "open_price": "225.9950",
+      "high_price": "228.8500",
+      "low_price": "224.8900",
+      "close_price": "228.0300",
+      "volume": "35934559"
+    },
+    "2024-08-26": {
+      "open_price": "226.7600",
+      "high_price": "227.2800",
+      "low_price": "223.8905",
+      "close_price": "227.1800",
+      "volume": "30602208"
+    },
+    "2024-08-23": {
+      "open_price": "225.6589",
+      "high_price": "228.2200",
+      "low_price": "224.3300",
+      "close_price": "226.8400",
+      "volume": "38677250"
+    },
+    "2024-08-22": {
+      "open_price": "227.7900",
+      "high_price": "228.3400",
+      "low_price": "223.9000",
+      "close_price": "224.5300",
+      "volume": "43695321"
+    },
+    "2024-08-21": {
+      "open_price": "226.5200",
+      "high_price": "227.9800",
+      "low_price": "225.0500",
+      "close_price": "226.4000",
+      "volume": "34765480"
+    },
+    "2024-08-20": {
+      "open_price": "225.7700",
+      "high_price": "227.1700",
+      "low_price": "225.4500",
+      "close_price": "226.5100",
+      "volume": "30299033"
+    },
+    "2024-08-19": {
+      "open_price": "225.7200",
+      "high_price": "225.9900",
+      "low_price": "223.0400",
+      "close_price": "225.8900",
+      "volume": "40687813"
+    },
+    "2024-08-16": {
+      "open_price": "223.9200",
+      "high_price": "226.8271",
+      "low_price": "223.6501",
+      "close_price": "226.0500",
+      "volume": "44340240"
+    },
+    "2024-08-15": {
+      "open_price": "224.6000",
+      "high_price": "225.3500",
+      "low_price": "222.7600",
+      "close_price": "224.7200",
+      "volume": "46414013"
+    },
+    "2024-08-14": {
+      "open_price": "220.5700",
+      "high_price": "223.0300",
+      "low_price": "219.7000",
+      "close_price": "221.7200",
+      "volume": "41960574"
+    },
+    "2024-08-13": {
+      "open_price": "219.0100",
+      "high_price": "221.8900",
+      "low_price": "219.0100",
+      "close_price": "221.2700",
+      "volume": "44155331"
+    },
+    "2024-08-12": {
+      "open_price": "216.0700",
+      "high_price": "219.5099",
+      "low_price": "215.6000",
+      "close_price": "217.5300",
+      "volume": "38028092"
+    },
+    "2024-08-09": {
+      "open_price": "212.1000",
+      "high_price": "216.7800",
+      "low_price": "211.9700",
+      "close_price": "216.2400",
+      "volume": "42201646"
+    },
+    "2024-08-08": {
+      "open_price": "213.1100",
+      "high_price": "214.2000",
+      "low_price": "208.8300",
+      "close_price": "213.3100",
+      "volume": "47161149"
+    },
+    "2024-08-07": {
+      "open_price": "206.9000",
+      "high_price": "213.6400",
+      "low_price": "206.3900",
+      "close_price": "209.8200",
+      "volume": "63516417"
+    },
+    "2024-08-06": {
+      "open_price": "205.3000",
+      "high_price": "209.9900",
+      "low_price": "201.0700",
+      "close_price": "207.2300",
+      "volume": "69660488"
+    },
+    "2024-08-05": {
+      "open_price": "199.0900",
+      "high_price": "213.5000",
+      "low_price": "196.0000",
+      "close_price": "209.2700",
+      "volume": "119548589"
+    },
+    "2024-08-02": {
+      "open_price": "219.1500",
+      "high_price": "225.6000",
+      "low_price": "217.7100",
+      "close_price": "219.8600",
+      "volume": "105568560"
+    },
+    "2024-08-01": {
+      "open_price": "224.3700",
+      "high_price": "224.4800",
+      "low_price": "217.0200",
+      "close_price": "218.3600",
+      "volume": "62500996"
+    },
+    "2024-07-31": {
+      "open_price": "221.4400",
+      "high_price": "223.8200",
+      "low_price": "220.6300",
+      "close_price": "222.0800",
+      "volume": "50036262"
+    },
+    "2024-07-30": {
+      "open_price": "219.1900",
+      "high_price": "220.3250",
+      "low_price": "216.1200",
+      "close_price": "218.8000",
+      "volume": "41643840"
+    },
+    "2024-07-29": {
+      "open_price": "216.9600",
+      "high_price": "219.3000",
+      "low_price": "215.7500",
+      "close_price": "218.2400",
+      "volume": "36311778"
+    },
+    "2024-07-26": {
+      "open_price": "218.7000",
+      "high_price": "219.4900",
+      "low_price": "216.0100",
+      "close_price": "217.9600",
+      "volume": "41601345"
+    },
+    "2024-07-25": {
+      "open_price": "218.9300",
+      "high_price": "220.8500",
+      "low_price": "214.6200",
+      "close_price": "217.4900",
+      "volume": "51391199"
+    },
+    "2024-07-24": {
+      "open_price": "224.0000",
+      "high_price": "224.8000",
+      "low_price": "217.1300",
+      "close_price": "218.5400",
+      "volume": "61777576"
+    },
+    "2024-07-23": {
+      "open_price": "224.3650",
+      "high_price": "226.9400",
+      "low_price": "222.6800",
+      "close_price": "225.0100",
+      "volume": "39960260"
+    },
+    "2024-07-22": {
+      "open_price": "227.0100",
+      "high_price": "227.7800",
+      "low_price": "223.0900",
+      "close_price": "223.9600",
+      "volume": "48201835"
+    },
+    "2024-07-19": {
+      "open_price": "224.8200",
+      "high_price": "226.8000",
+      "low_price": "223.2750",
+      "close_price": "224.3100",
+      "volume": "49151453"
+    },
+    "2024-07-18": {
+      "open_price": "230.2800",
+      "high_price": "230.4400",
+      "low_price": "222.2700",
+      "close_price": "224.1800",
+      "volume": "66034585"
+    },
+    "2024-07-17": {
+      "open_price": "229.4500",
+      "high_price": "231.4599",
+      "low_price": "226.6400",
+      "close_price": "228.8800",
+      "volume": "57345884"
+    },
+    "2024-07-16": {
+      "open_price": "235.0000",
+      "high_price": "236.2700",
+      "low_price": "232.3300",
+      "close_price": "234.8200",
+      "volume": "43234278"
+    },
+    "2024-07-15": {
+      "open_price": "236.4800",
+      "high_price": "237.2300",
+      "low_price": "233.0900",
+      "close_price": "234.4000",
+      "volume": "62631252"
+    },
+    "2024-07-12": {
+      "open_price": "228.9200",
+      "high_price": "232.6400",
+      "low_price": "228.6800",
+      "close_price": "230.5400",
+      "volume": "53046527"
+    },
+    "2024-07-11": {
+      "open_price": "231.3900",
+      "high_price": "232.3900",
+      "low_price": "225.7700",
+      "close_price": "227.5700",
+      "volume": "64710617"
+    },
+    "2024-07-10": {
+      "open_price": "229.3000",
+      "high_price": "233.0800",
+      "low_price": "229.2500",
+      "close_price": "232.9800",
+      "volume": "62627687"
+    },
+    "2024-07-09": {
+      "open_price": "227.9300",
+      "high_price": "229.4000",
+      "low_price": "226.3721",
+      "close_price": "228.6800",
+      "volume": "48169822"
+    },
+    "2024-07-08": {
+      "open_price": "227.0900",
+      "high_price": "227.8500",
+      "low_price": "223.2500",
+      "close_price": "227.8200",
+      "volume": "59085861"
+    },
+    "2024-07-05": {
+      "open_price": "221.6500",
+      "high_price": "226.4500",
+      "low_price": "221.6500",
+      "close_price": "226.3400",
+      "volume": "60412408"
+    },
+    "2024-07-03": {
+      "open_price": "220.0000",
+      "high_price": "221.5500",
+      "low_price": "219.0300",
+      "close_price": "221.5500",
+      "volume": "37369801"
+    },
+    "2024-07-02": {
+      "open_price": "216.1500",
+      "high_price": "220.3800",
+      "low_price": "215.1000",
+      "close_price": "220.2700",
+      "volume": "58046178"
+    },
+    "2024-07-01": {
+      "open_price": "212.0900",
+      "high_price": "217.5100",
+      "low_price": "211.9200",
+      "close_price": "216.7500",
+      "volume": "60402929"
+    },
+    "2024-06-28": {
+      "open_price": "215.7700",
+      "high_price": "216.0700",
+      "low_price": "210.3000",
+      "close_price": "210.6200",
+      "volume": "82542718"
+    },
+    "2024-06-27": {
+      "open_price": "214.6900",
+      "high_price": "215.7395",
+      "low_price": "212.3500",
+      "close_price": "214.1000",
+      "volume": "49772707"
+    },
+    "2024-06-26": {
+      "open_price": "211.5000",
+      "high_price": "214.8600",
+      "low_price": "210.6400",
+      "close_price": "213.2500",
+      "volume": "66213186"
+    },
+    "2024-06-25": {
+      "open_price": "209.1500",
+      "high_price": "211.3800",
+      "low_price": "208.6100",
+      "close_price": "209.0700",
+      "volume": "56713868"
+    },
+    "2024-06-24": {
+      "open_price": "207.7200",
+      "high_price": "212.7000",
+      "low_price": "206.5900",
+      "close_price": "208.1400",
+      "volume": "80727006"
+    },
+    "2024-06-21": {
+      "open_price": "210.3900",
+      "high_price": "211.8900",
+      "low_price": "207.1100",
+      "close_price": "207.4900",
+      "volume": "246421353"
+    },
+    "2024-06-20": {
+      "open_price": "213.9300",
+      "high_price": "214.2400",
+      "low_price": "208.8500",
+      "close_price": "209.6800",
+      "volume": "86172451"
+    },
+    "2024-06-18": {
+      "open_price": "217.5900",
+      "high_price": "218.6300",
+      "low_price": "213.0000",
+      "close_price": "214.2900",
+      "volume": "79943254"
+    },
+    "2024-06-17": {
+      "open_price": "213.3700",
+      "high_price": "218.9500",
+      "low_price": "212.7200",
+      "close_price": "216.6700",
+      "volume": "93728300"
+    },
+    "2024-06-14": {
+      "open_price": "213.8500",
+      "high_price": "215.1700",
+      "low_price": "211.3000",
+      "close_price": "212.4900",
+      "volume": "70122748"
+    },
+    "2024-06-13": {
+      "open_price": "214.7400",
+      "high_price": "216.7500",
+      "low_price": "211.6000",
+      "close_price": "214.2400",
+      "volume": "97862729"
+    },
+    "2024-06-12": {
+      "open_price": "207.3700",
+      "high_price": "220.2000",
+      "low_price": "206.9000",
+      "close_price": "213.0700",
+      "volume": "198134293"
+    },
+    "2024-06-11": {
+      "open_price": "193.6500",
+      "high_price": "207.1600",
+      "low_price": "193.6300",
+      "close_price": "207.1500",
+      "volume": "172373296"
+    },
+    "2024-06-10": {
+      "open_price": "196.9000",
+      "high_price": "197.3000",
+      "low_price": "192.1500",
+      "close_price": "193.1200",
+      "volume": "97262077"
+    },
+    "2024-06-07": {
+      "open_price": "194.6500",
+      "high_price": "196.9400",
+      "low_price": "194.1400",
+      "close_price": "196.8900",
+      "volume": "53103912"
+    },
+    "2024-06-06": {
+      "open_price": "195.6850",
+      "high_price": "196.5000",
+      "low_price": "194.1700",
+      "close_price": "194.4800",
+      "volume": "41181753"
+    },
+    "2024-06-05": {
+      "open_price": "195.4000",
+      "high_price": "196.9000",
+      "low_price": "194.8700",
+      "close_price": "195.8700",
+      "volume": "54156785"
+    },
+    "2024-06-04": {
+      "open_price": "194.6350",
+      "high_price": "195.3200",
+      "low_price": "193.0342",
+      "close_price": "194.3500",
+      "volume": "47471445"
+    },
+    "2024-06-03": {
+      "open_price": "192.9000",
+      "high_price": "194.9900",
+      "low_price": "192.5200",
+      "close_price": "194.0300",
+      "volume": "50080539"
+    },
+    "2024-05-31": {
+      "open_price": "191.4400",
+      "high_price": "192.5700",
+      "low_price": "189.9100",
+      "close_price": "192.2500",
+      "volume": "75158277"
+    },
+    "2024-05-30": {
+      "open_price": "190.7600",
+      "high_price": "192.1800",
+      "low_price": "190.6300",
+      "close_price": "191.2900",
+      "volume": "49947941"
+    },
+    "2024-05-29": {
+      "open_price": "189.6100",
+      "high_price": "192.2470",
+      "low_price": "189.5100",
+      "close_price": "190.2900",
+      "volume": "53068016"
+    },
+    "2024-05-28": {
+      "open_price": "191.5100",
+      "high_price": "193.0000",
+      "low_price": "189.1000",
+      "close_price": "189.9900",
+      "volume": "52280051"
+    },
+    "2024-05-24": {
+      "open_price": "188.8200",
+      "high_price": "190.5800",
+      "low_price": "188.0404",
+      "close_price": "189.9800",
+      "volume": "36326975"
+    },
+    "2024-05-23": {
+      "open_price": "190.9800",
+      "high_price": "191.0000",
+      "low_price": "186.6250",
+      "close_price": "186.8800",
+      "volume": "51005924"
+    },
+    "2024-05-22": {
+      "open_price": "192.2650",
+      "high_price": "192.8231",
+      "low_price": "190.2700",
+      "close_price": "190.9000",
+      "volume": "34648547"
+    },
+    "2024-05-21": {
+      "open_price": "191.0900",
+      "high_price": "192.7300",
+      "low_price": "190.9201",
+      "close_price": "192.3500",
+      "volume": "42309401"
+    },
+    "2024-05-20": {
+      "open_price": "189.3250",
+      "high_price": "191.9199",
+      "low_price": "189.0100",
+      "close_price": "191.0400",
+      "volume": "44361275"
+    },
+    "2024-05-17": {
+      "open_price": "189.5100",
+      "high_price": "190.8100",
+      "low_price": "189.1800",
+      "close_price": "189.8700",
+      "volume": "41282925"
+    },
+    "2024-05-16": {
+      "open_price": "190.4700",
+      "high_price": "191.0950",
+      "low_price": "189.6601",
+      "close_price": "189.8400",
+      "volume": "52845230"
+    },
+    "2024-05-15": {
+      "open_price": "187.9100",
+      "high_price": "190.6500",
+      "low_price": "187.3700",
+      "close_price": "189.7200",
+      "volume": "70399988"
+    },
+    "2024-05-14": {
+      "open_price": "187.5100",
+      "high_price": "188.3000",
+      "low_price": "186.2900",
+      "close_price": "187.4300",
+      "volume": "52393619"
+    },
+    "2024-05-13": {
+      "open_price": "185.4350",
+      "high_price": "187.1000",
+      "low_price": "184.6200",
+      "close_price": "186.2800",
+      "volume": "72044809"
+    },
+    "2024-05-10": {
+      "open_price": "184.9000",
+      "high_price": "185.0900",
+      "low_price": "182.1300",
+      "close_price": "183.0500",
+      "volume": "50759496"
+    },
+    "2024-05-09": {
+      "open_price": "182.5600",
+      "high_price": "184.6600",
+      "low_price": "182.1100",
+      "close_price": "184.5700",
+      "volume": "48982972"
+    },
+    "2024-05-08": {
+      "open_price": "182.8500",
+      "high_price": "183.0700",
+      "low_price": "181.4500",
+      "close_price": "182.7400",
+      "volume": "45057087"
+    },
+    "2024-05-07": {
+      "open_price": "183.4500",
+      "high_price": "184.9000",
+      "low_price": "181.3200",
+      "close_price": "182.4000",
+      "volume": "77305771"
+    },
+    "2024-05-06": {
+      "open_price": "182.3540",
+      "high_price": "184.2000",
+      "low_price": "180.4200",
+      "close_price": "181.7100",
+      "volume": "78569667"
+    },
+    "2024-05-03": {
+      "open_price": "186.6450",
+      "high_price": "187.0000",
+      "low_price": "182.6600",
+      "close_price": "183.3800",
+      "volume": "163224109"
+    },
+    "2024-05-02": {
+      "open_price": "172.5100",
+      "high_price": "173.4150",
+      "low_price": "170.8900",
+      "close_price": "173.0300",
+      "volume": "94214915"
+    },
+    "2024-05-01": {
+      "open_price": "169.5800",
+      "high_price": "172.7050",
+      "low_price": "169.1100",
+      "close_price": "169.3000",
+      "volume": "50383147"
+    },
+    "2024-04-30": {
+      "open_price": "173.3300",
+      "high_price": "174.9900",
+      "low_price": "170.0000",
+      "close_price": "170.3300",
+      "volume": "65934776"
+    },
+    "2024-04-29": {
+      "open_price": "173.3700",
+      "high_price": "176.0300",
+      "low_price": "173.1000",
+      "close_price": "173.5000",
+      "volume": "68169419"
+    },
+    "2024-04-26": {
+      "open_price": "169.8800",
+      "high_price": "171.3400",
+      "low_price": "169.1800",
+      "close_price": "169.3000",
+      "volume": "44838354"
+    },
+    "2024-04-25": {
+      "open_price": "169.5250",
+      "high_price": "170.6100",
+      "low_price": "168.1511",
+      "close_price": "169.8900",
+      "volume": "50558329"
+    },
+    "2024-04-24": {
+      "open_price": "166.5400",
+      "high_price": "169.3000",
+      "low_price": "166.2100",
+      "close_price": "169.0200",
+      "volume": "48251835"
+    },
+    "2024-04-23": {
+      "open_price": "165.3500",
+      "high_price": "167.0500",
+      "low_price": "164.9200",
+      "close_price": "166.9000",
+      "volume": "49537761"
+    },
+    "2024-04-22": {
+      "open_price": "165.5150",
+      "high_price": "167.2600",
+      "low_price": "164.7700",
+      "close_price": "165.8400",
+      "volume": "48116443"
+    },
+    "2024-04-19": {
+      "open_price": "166.2100",
+      "high_price": "166.4000",
+      "low_price": "164.0750",
+      "close_price": "165.0000",
+      "volume": "68149377"
+    },
+    "2024-04-18": {
+      "open_price": "168.0300",
+      "high_price": "168.6400",
+      "low_price": "166.5500",
+      "close_price": "167.0400",
+      "volume": "43122903"
+    },
+    "2024-04-17": {
+      "open_price": "169.6100",
+      "high_price": "170.6500",
+      "low_price": "168.0000",
+      "close_price": "168.0000",
+      "volume": "50901210"
+    },
+    "2024-04-16": {
+      "open_price": "171.7500",
+      "high_price": "173.7600",
+      "low_price": "168.2700",
+      "close_price": "169.3800",
+      "volume": "73711235"
+    },
+    "2024-04-15": {
+      "open_price": "175.3600",
+      "high_price": "176.6300",
+      "low_price": "172.5000",
+      "close_price": "172.6900",
+      "volume": "73531773"
+    },
+    "2024-04-12": {
+      "open_price": "174.2600",
+      "high_price": "178.3600",
+      "low_price": "174.2100",
+      "close_price": "176.5500",
+      "volume": "101670886"
+    },
+    "2024-04-11": {
+      "open_price": "168.3400",
+      "high_price": "175.4600",
+      "low_price": "168.1600",
+      "close_price": "175.0400",
+      "volume": "91070275"
+    },
+    "2024-04-10": {
+      "open_price": "168.8000",
+      "high_price": "169.0900",
+      "low_price": "167.1100",
+      "close_price": "167.7800",
+      "volume": "49709336"
+    },
+    "2024-04-09": {
+      "open_price": "168.7000",
+      "high_price": "170.0800",
+      "low_price": "168.3500",
+      "close_price": "169.6700",
+      "volume": "42231444"
+    },
+    "2024-04-08": {
+      "open_price": "169.0300",
+      "high_price": "169.2000",
+      "low_price": "168.2400",
+      "close_price": "168.4500",
+      "volume": "37216858"
+    },
+    "2024-04-05": {
+      "open_price": "169.5900",
+      "high_price": "170.3900",
+      "low_price": "168.9500",
+      "close_price": "169.5800",
+      "volume": "41975776"
+    },
+    "2024-04-04": {
+      "open_price": "170.2900",
+      "high_price": "171.9200",
+      "low_price": "168.8200",
+      "close_price": "168.8200",
+      "volume": "53355055"
+    },
+    "2024-04-03": {
+      "open_price": "168.7900",
+      "high_price": "170.6800",
+      "low_price": "168.5800",
+      "close_price": "169.6500",
+      "volume": "45571129"
+    },
+    "2024-04-02": {
+      "open_price": "169.0800",
+      "high_price": "169.3400",
+      "low_price": "168.2302",
+      "close_price": "168.8400",
+      "volume": "49013991"
+    },
+    "2024-04-01": {
+      "open_price": "171.1900",
+      "high_price": "171.2500",
+      "low_price": "169.4750",
+      "close_price": "170.0300",
+      "volume": "43772506"
+    },
+    "2024-03-28": {
+      "open_price": "171.7500",
+      "high_price": "172.2300",
+      "low_price": "170.5100",
+      "close_price": "171.4800",
+      "volume": "65672690"
+    },
+    "2024-03-27": {
+      "open_price": "170.4100",
+      "high_price": "173.6000",
+      "low_price": "170.1100",
+      "close_price": "173.3100",
+      "volume": "60273265"
+    },
+    "2024-03-26": {
+      "open_price": "170.0000",
+      "high_price": "171.4200",
+      "low_price": "169.5800",
+      "close_price": "169.7100",
+      "volume": "57388449"
+    },
+    "2024-03-25": {
+      "open_price": "170.5650",
+      "high_price": "171.9400",
+      "low_price": "169.4500",
+      "close_price": "170.8500",
+      "volume": "54288328"
+    },
+    "2024-03-22": {
+      "open_price": "171.7600",
+      "high_price": "173.0500",
+      "low_price": "170.0600",
+      "close_price": "172.2800",
+      "volume": "71160138"
+    },
+    "2024-03-21": {
+      "open_price": "177.0500",
+      "high_price": "177.4900",
+      "low_price": "170.8400",
+      "close_price": "171.3700",
+      "volume": "106181270"
+    },
+    "2024-03-20": {
+      "open_price": "175.7200",
+      "high_price": "178.6700",
+      "low_price": "175.0900",
+      "close_price": "178.6700",
+      "volume": "53423102"
+    },
+    "2024-03-19": {
+      "open_price": "174.3400",
+      "high_price": "176.6050",
+      "low_price": "173.0300",
+      "close_price": "176.0800",
+      "volume": "55215244"
+    },
+    "2024-03-18": {
+      "open_price": "175.5700",
+      "high_price": "177.7100",
+      "low_price": "173.5200",
+      "close_price": "173.7200",
+      "volume": "75604184"
+    },
+    "2024-03-15": {
+      "open_price": "171.1700",
+      "high_price": "172.6200",
+      "low_price": "170.2850",
+      "close_price": "172.6200",
+      "volume": "121752699"
+    },
+    "2024-03-14": {
+      "open_price": "172.9100",
+      "high_price": "174.3078",
+      "low_price": "172.0500",
+      "close_price": "173.0000",
+      "volume": "72571635"
+    },
+    "2024-03-13": {
+      "open_price": "172.7700",
+      "high_price": "173.1850",
+      "low_price": "170.7600",
+      "close_price": "171.1300",
+      "volume": "51948951"
+    },
+    "2024-03-12": {
+      "open_price": "173.1500",
+      "high_price": "174.0300",
+      "low_price": "171.0100",
+      "close_price": "173.2300",
+      "volume": "59544927"
+    },
+    "2024-03-11": {
+      "open_price": "172.9400",
+      "high_price": "174.3800",
+      "low_price": "172.0500",
+      "close_price": "172.7500",
+      "volume": "58929918"
+    },
+    "2024-03-08": {
+      "open_price": "169.0000",
+      "high_price": "173.7000",
+      "low_price": "168.9400",
+      "close_price": "170.7300",
+      "volume": "76267041"
+    },
+    "2024-03-07": {
+      "open_price": "169.1500",
+      "high_price": "170.7300",
+      "low_price": "168.4900",
+      "close_price": "169.0000",
+      "volume": "71765061"
+    },
+    "2024-03-06": {
+      "open_price": "171.0600",
+      "high_price": "171.2400",
+      "low_price": "168.6800",
+      "close_price": "169.1200",
+      "volume": "68587707"
+    },
+    "2024-03-05": {
+      "open_price": "170.7600",
+      "high_price": "172.0400",
+      "low_price": "169.6200",
+      "close_price": "170.1200",
+      "volume": "95132355"
+    },
+    "2024-03-04": {
+      "open_price": "176.1500",
+      "high_price": "176.9000",
+      "low_price": "173.7900",
+      "close_price": "175.1000",
+      "volume": "81510101"
+    },
+    "2024-03-01": {
+      "open_price": "179.5500",
+      "high_price": "180.5300",
+      "low_price": "177.3800",
+      "close_price": "179.6600",
+      "volume": "73563082"
+    },
+    "2024-02-29": {
+      "open_price": "181.2700",
+      "high_price": "182.5700",
+      "low_price": "179.5300",
+      "close_price": "180.7500",
+      "volume": "136682597"
+    },
+    "2024-02-28": {
+      "open_price": "182.5100",
+      "high_price": "183.1200",
+      "low_price": "180.1300",
+      "close_price": "181.4200",
+      "volume": "48953939"
+    },
+    "2024-02-27": {
+      "open_price": "181.1000",
+      "high_price": "183.9225",
+      "low_price": "179.5600",
+      "close_price": "182.6300",
+      "volume": "54318851"
+    },
+    "2024-02-26": {
+      "open_price": "182.2400",
+      "high_price": "182.7600",
+      "low_price": "180.6500",
+      "close_price": "181.1600",
+      "volume": "40867421"
+    },
+    "2024-02-23": {
+      "open_price": "185.0100",
+      "high_price": "185.0400",
+      "low_price": "182.2300",
+      "close_price": "182.5200",
+      "volume": "45119677"
+    },
+    "2024-02-22": {
+      "open_price": "183.4800",
+      "high_price": "184.9550",
+      "low_price": "182.4600",
+      "close_price": "184.3700",
+      "volume": "52292208"
+    },
+    "2024-02-21": {
+      "open_price": "181.9400",
+      "high_price": "182.8888",
+      "low_price": "180.6600",
+      "close_price": "182.3200",
+      "volume": "41529674"
+    },
+    "2024-02-20": {
+      "open_price": "181.7900",
+      "high_price": "182.4300",
+      "low_price": "180.0000",
+      "close_price": "181.5600",
+      "volume": "53665553"
+    },
+    "2024-02-16": {
+      "open_price": "183.4200",
+      "high_price": "184.8500",
+      "low_price": "181.6650",
+      "close_price": "182.3100",
+      "volume": "49752465"
+    },
+    "2024-02-15": {
+      "open_price": "183.5500",
+      "high_price": "184.4900",
+      "low_price": "181.3500",
+      "close_price": "183.8600",
+      "volume": "65434496"
+    },
+    "2024-02-14": {
+      "open_price": "185.3200",
+      "high_price": "185.5300",
+      "low_price": "182.4400",
+      "close_price": "184.1500",
+      "volume": "54630517"
+    },
+    "2024-02-13": {
+      "open_price": "185.7700",
+      "high_price": "186.2100",
+      "low_price": "183.5128",
+      "close_price": "185.0400",
+      "volume": "56529529"
+    },
+    "2024-02-12": {
+      "open_price": "188.4150",
+      "high_price": "188.6700",
+      "low_price": "186.7900",
+      "close_price": "187.1500",
+      "volume": "41781934"
+    },
+    "2024-02-09": {
+      "open_price": "188.6500",
+      "high_price": "189.9900",
+      "low_price": "188.0000",
+      "close_price": "188.8500",
+      "volume": "45155216"
+    },
+    "2024-02-08": {
+      "open_price": "189.3850",
+      "high_price": "189.5350",
+      "low_price": "187.3500",
+      "close_price": "188.3200",
+      "volume": "40962046"
+    },
+    "2024-02-07": {
+      "open_price": "190.6400",
+      "high_price": "191.0500",
+      "low_price": "188.6100",
+      "close_price": "189.4100",
+      "volume": "53438955"
+    },
+    "2024-02-06": {
+      "open_price": "186.8600",
+      "high_price": "189.3100",
+      "low_price": "186.7695",
+      "close_price": "189.3000",
+      "volume": "43490759"
+    },
+    "2024-02-05": {
+      "open_price": "188.1500",
+      "high_price": "189.2500",
+      "low_price": "185.8400",
+      "close_price": "187.6800",
+      "volume": "69668820"
+    },
+    "2024-02-02": {
+      "open_price": "179.8600",
+      "high_price": "187.3300",
+      "low_price": "179.2500",
+      "close_price": "185.8500",
+      "volume": "102551680"
+    },
+    "2024-02-01": {
+      "open_price": "183.9850",
+      "high_price": "186.9500",
+      "low_price": "183.8200",
+      "close_price": "186.8600",
+      "volume": "64885408"
+    },
+    "2024-01-31": {
+      "open_price": "187.0400",
+      "high_price": "187.0950",
+      "low_price": "184.3500",
+      "close_price": "184.4000",
+      "volume": "55467803"
+    },
+    "2024-01-30": {
+      "open_price": "190.9400",
+      "high_price": "191.8000",
+      "low_price": "187.4700",
+      "close_price": "188.0400",
+      "volume": "55859370"
+    },
+    "2024-01-29": {
+      "open_price": "192.0100",
+      "high_price": "192.2000",
+      "low_price": "189.5800",
+      "close_price": "191.7300",
+      "volume": "47145622"
+    },
+    "2024-01-26": {
+      "open_price": "194.2700",
+      "high_price": "194.7600",
+      "low_price": "191.9400",
+      "close_price": "192.4200",
+      "volume": "44594011"
+    },
+    "2024-01-25": {
+      "open_price": "195.2200",
+      "high_price": "196.2675",
+      "low_price": "193.1125",
+      "close_price": "194.1700",
+      "volume": "54822126"
+    },
+    "2024-01-24": {
+      "open_price": "195.4200",
+      "high_price": "196.3800",
+      "low_price": "194.3400",
+      "close_price": "194.5000",
+      "volume": "53463269"
+    },
+    "2024-01-23": {
+      "open_price": "195.0200",
+      "high_price": "195.7500",
+      "low_price": "193.8299",
+      "close_price": "195.1800",
+      "volume": "42355590"
+    },
+    "2024-01-22": {
+      "open_price": "192.3000",
+      "high_price": "195.3300",
+      "low_price": "192.2600",
+      "close_price": "193.8900",
+      "volume": "60133852"
+    },
+    "2024-01-19": {
+      "open_price": "189.3300",
+      "high_price": "191.9500",
+      "low_price": "188.8200",
+      "close_price": "191.5600",
+      "volume": "68902985"
+    },
+    "2024-01-18": {
+      "open_price": "186.0900",
+      "high_price": "189.1400",
+      "low_price": "185.8300",
+      "close_price": "188.6300",
+      "volume": "78005754"
+    },
+    "2024-01-17": {
+      "open_price": "181.2700",
+      "high_price": "182.9300",
+      "low_price": "180.3000",
+      "close_price": "182.6800",
+      "volume": "47317433"
+    },
+    "2024-01-16": {
+      "open_price": "182.1600",
+      "high_price": "184.2600",
+      "low_price": "180.9340",
+      "close_price": "183.6300",
+      "volume": "65603041"
+    },
+    "2024-01-12": {
+      "open_price": "186.0600",
+      "high_price": "186.7400",
+      "low_price": "185.1900",
+      "close_price": "185.9200",
+      "volume": "40477782"
+    },
+    "2024-01-11": {
+      "open_price": "186.5400",
+      "high_price": "187.0500",
+      "low_price": "183.6200",
+      "close_price": "185.5900",
+      "volume": "49128408"
+    },
+    "2024-01-10": {
+      "open_price": "184.3500",
+      "high_price": "186.4000",
+      "low_price": "183.9200",
+      "close_price": "186.1900",
+      "volume": "46792908"
+    },
+    "2024-01-09": {
+      "open_price": "183.9200",
+      "high_price": "185.1500",
+      "low_price": "182.7300",
+      "close_price": "185.1400",
+      "volume": "42841809"
+    },
+    "2024-01-08": {
+      "open_price": "182.0850",
+      "high_price": "185.6000",
+      "low_price": "181.5000",
+      "close_price": "185.5600",
+      "volume": "59144470"
+    },
+    "2024-01-05": {
+      "open_price": "181.9900",
+      "high_price": "182.7600",
+      "low_price": "180.1700",
+      "close_price": "181.1800",
+      "volume": "62196924"
+    },
+    "2024-01-04": {
+      "open_price": "182.1500",
+      "high_price": "183.0872",
+      "low_price": "180.8800",
+      "close_price": "181.9100",
+      "volume": "71983570"
+    },
+    "2024-01-03": {
+      "open_price": "184.2200",
+      "high_price": "185.8800",
+      "low_price": "183.4300",
+      "close_price": "184.2500",
+      "volume": "58414460"
+    },
+    "2024-01-02": {
+      "open_price": "187.1500",
+      "high_price": "188.4400",
+      "low_price": "183.8850",
+      "close_price": "185.6400",
+      "volume": "82488674"
+    },
+    "2023-12-29": {
+      "open_price": "193.9000",
+      "high_price": "194.4000",
+      "low_price": "191.7250",
+      "close_price": "192.5300",
+      "volume": "42672148"
+    },
+    "2023-12-28": {
+      "open_price": "194.1400",
+      "high_price": "194.6600",
+      "low_price": "193.1700",
+      "close_price": "193.5800",
+      "volume": "34049898"
+    },
+    "2023-12-27": {
+      "open_price": "192.4900",
+      "high_price": "193.5000",
+      "low_price": "191.0900",
+      "close_price": "193.1500",
+      "volume": "47899806"
+    },
+    "2023-12-26": {
+      "open_price": "193.6100",
+      "high_price": "193.8900",
+      "low_price": "192.8300",
+      "close_price": "193.0500",
+      "volume": "28919310"
+    },
+    "2023-12-22": {
+      "open_price": "195.1800",
+      "high_price": "195.4100",
+      "low_price": "192.9700",
+      "close_price": "193.6000",
+      "volume": "37149570"
+    },
+    "2023-12-21": {
+      "open_price": "196.1000",
+      "high_price": "197.0800",
+      "low_price": "193.5000",
+      "close_price": "194.6800",
+      "volume": "46482549"
+    },
+    "2023-12-20": {
+      "open_price": "196.9000",
+      "high_price": "197.6800",
+      "low_price": "194.8300",
+      "close_price": "194.8300",
+      "volume": "52242815"
+    },
+    "2023-12-19": {
+      "open_price": "196.1600",
+      "high_price": "196.9500",
+      "low_price": "195.8900",
+      "close_price": "196.9400",
+      "volume": "40233138"
+    },
+    "2023-12-18": {
+      "open_price": "196.0900",
+      "high_price": "196.6300",
+      "low_price": "194.3900",
+      "close_price": "195.8900",
+      "volume": "55751861"
+    },
+    "2023-12-15": {
+      "open_price": "197.5300",
+      "high_price": "198.3999",
+      "low_price": "197.0000",
+      "close_price": "197.5700",
+      "volume": "128538401"
+    },
+    "2023-12-14": {
+      "open_price": "198.0200",
+      "high_price": "199.6200",
+      "low_price": "196.1600",
+      "close_price": "198.1100",
+      "volume": "66831572"
+    },
+    "2023-12-13": {
+      "open_price": "195.0900",
+      "high_price": "198.0000",
+      "low_price": "194.8500",
+      "close_price": "197.9600",
+      "volume": "70404183"
+    },
+    "2023-12-12": {
+      "open_price": "193.0800",
+      "high_price": "194.7200",
+      "low_price": "191.7210",
+      "close_price": "194.7100",
+      "volume": "52696900"
+    },
+    "2023-12-11": {
+      "open_price": "193.1100",
+      "high_price": "193.4900",
+      "low_price": "191.4200",
+      "close_price": "193.1800",
+      "volume": "60943699"
+    },
+    "2023-12-08": {
+      "open_price": "194.2000",
+      "high_price": "195.9900",
+      "low_price": "193.6700",
+      "close_price": "195.7100",
+      "volume": "53406358"
+    },
+    "2023-12-07": {
+      "open_price": "193.6300",
+      "high_price": "195.0000",
+      "low_price": "193.5900",
+      "close_price": "194.2700",
+      "volume": "47477655"
+    },
+    "2023-12-06": {
+      "open_price": "194.4500",
+      "high_price": "194.7600",
+      "low_price": "192.1100",
+      "close_price": "192.3200",
+      "volume": "40895115"
+    },
+    "2023-12-05": {
+      "open_price": "190.2100",
+      "high_price": "194.4000",
+      "low_price": "190.1800",
+      "close_price": "193.4200",
+      "volume": "66628398"
+    },
+    "2023-12-04": {
+      "open_price": "189.9800",
+      "high_price": "190.0500",
+      "low_price": "187.4511",
+      "close_price": "189.4300",
+      "volume": "43389519"
+    },
+    "2023-12-01": {
+      "open_price": "190.3300",
+      "high_price": "191.5600",
+      "low_price": "189.2300",
+      "close_price": "191.2400",
+      "volume": "45704823"
+    },
+    "2023-11-30": {
+      "open_price": "189.8400",
+      "high_price": "190.3200",
+      "low_price": "188.1900",
+      "close_price": "189.9500",
+      "volume": "48794366"
+    },
+    "2023-11-29": {
+      "open_price": "190.9000",
+      "high_price": "192.0900",
+      "low_price": "188.9700",
+      "close_price": "189.3700",
+      "volume": "43014224"
+    },
+    "2023-11-28": {
+      "open_price": "189.7800",
+      "high_price": "191.0800",
+      "low_price": "189.4000",
+      "close_price": "190.4000",
+      "volume": "38415419"
+    },
+    "2023-11-27": {
+      "open_price": "189.9200",
+      "high_price": "190.6700",
+      "low_price": "188.9000",
+      "close_price": "189.7900",
+      "volume": "40552609"
+    },
+    "2023-11-24": {
+      "open_price": "190.8700",
+      "high_price": "190.9000",
+      "low_price": "189.2500",
+      "close_price": "189.9700",
+      "volume": "24048344"
+    },
+    "2023-11-22": {
+      "open_price": "191.4900",
+      "high_price": "192.9300",
+      "low_price": "190.8250",
+      "close_price": "191.3100",
+      "volume": "39630011"
+    },
+    "2023-11-21": {
+      "open_price": "191.4100",
+      "high_price": "191.5200",
+      "low_price": "189.7400",
+      "close_price": "190.6400",
+      "volume": "38134485"
+    },
+    "2023-11-20": {
+      "open_price": "189.8900",
+      "high_price": "191.9050",
+      "low_price": "189.8800",
+      "close_price": "191.4500",
+      "volume": "46538614"
+    },
+    "2023-11-17": {
+      "open_price": "190.2500",
+      "high_price": "190.3800",
+      "low_price": "188.5700",
+      "close_price": "189.6900",
+      "volume": "50941404"
+    },
+    "2023-11-16": {
+      "open_price": "189.5700",
+      "high_price": "190.9600",
+      "low_price": "188.6500",
+      "close_price": "189.7100",
+      "volume": "54412915"
+    },
+    "2023-11-15": {
+      "open_price": "187.8450",
+      "high_price": "189.5000",
+      "low_price": "187.7800",
+      "close_price": "188.0100",
+      "volume": "53790499"
+    },
+    "2023-11-14": {
+      "open_price": "187.7000",
+      "high_price": "188.1100",
+      "low_price": "186.3000",
+      "close_price": "187.4400",
+      "volume": "60108378"
+    },
+    "2023-11-13": {
+      "open_price": "185.8200",
+      "high_price": "186.0300",
+      "low_price": "184.2100",
+      "close_price": "184.8000",
+      "volume": "43627519"
+    },
+    "2023-11-10": {
+      "open_price": "183.9700",
+      "high_price": "186.5650",
+      "low_price": "183.5300",
+      "close_price": "186.4000",
+      "volume": "66177922"
+    },
+    "2023-11-09": {
+      "open_price": "182.9600",
+      "high_price": "184.1200",
+      "low_price": "181.8100",
+      "close_price": "182.4100",
+      "volume": "53763540"
+    },
+    "2023-11-08": {
+      "open_price": "182.3500",
+      "high_price": "183.4500",
+      "low_price": "181.5900",
+      "close_price": "182.8900",
+      "volume": "49340282"
+    },
+    "2023-11-07": {
+      "open_price": "179.1800",
+      "high_price": "182.4400",
+      "low_price": "178.9700",
+      "close_price": "181.8200",
+      "volume": "70529966"
+    },
+    "2023-11-06": {
+      "open_price": "176.3800",
+      "high_price": "179.4300",
+      "low_price": "176.2100",
+      "close_price": "179.2300",
+      "volume": "63841310"
+    },
+    "2023-11-03": {
+      "open_price": "174.2400",
+      "high_price": "176.8200",
+      "low_price": "173.3500",
+      "close_price": "176.6500",
+      "volume": "79829246"
+    },
+    "2023-11-02": {
+      "open_price": "175.5200",
+      "high_price": "177.7800",
+      "low_price": "175.4600",
+      "close_price": "177.5700",
+      "volume": "77334752"
+    },
+    "2023-11-01": {
+      "open_price": "171.0000",
+      "high_price": "174.2300",
+      "low_price": "170.1200",
+      "close_price": "173.9700",
+      "volume": "56934906"
+    },
+    "2023-10-31": {
+      "open_price": "169.3500",
+      "high_price": "170.9000",
+      "low_price": "167.9000",
+      "close_price": "170.7700",
+      "volume": "44846017"
+    },
+    "2023-10-30": {
+      "open_price": "169.0200",
+      "high_price": "171.1700",
+      "low_price": "168.8700",
+      "close_price": "170.2900",
+      "volume": "51130955"
+    },
+    "2023-10-27": {
+      "open_price": "166.9100",
+      "high_price": "168.9600",
+      "low_price": "166.8300",
+      "close_price": "168.2200",
+      "volume": "58499129"
+    },
+    "2023-10-26": {
+      "open_price": "170.3700",
+      "high_price": "171.3775",
+      "low_price": "165.6700",
+      "close_price": "166.8900",
+      "volume": "70625258"
+    },
+    "2023-10-25": {
+      "open_price": "171.8800",
+      "high_price": "173.0600",
+      "low_price": "170.6500",
+      "close_price": "171.1000",
+      "volume": "57156962"
+    },
+    "2023-10-24": {
+      "open_price": "173.0500",
+      "high_price": "173.6700",
+      "low_price": "171.4500",
+      "close_price": "173.4400",
+      "volume": "43816644"
+    },
+    "2023-10-23": {
+      "open_price": "170.9100",
+      "high_price": "174.0100",
+      "low_price": "169.9300",
+      "close_price": "173.0000",
+      "volume": "55980109"
+    },
+    "2023-10-20": {
+      "open_price": "175.3100",
+      "high_price": "175.4200",
+      "low_price": "172.6400",
+      "close_price": "172.8800",
+      "volume": "64244028"
+    },
+    "2023-10-19": {
+      "open_price": "176.0400",
+      "high_price": "177.8400",
+      "low_price": "175.1900",
+      "close_price": "175.4600",
+      "volume": "59302863"
+    },
+    "2023-10-18": {
+      "open_price": "175.5800",
+      "high_price": "177.5750",
+      "low_price": "175.1100",
+      "close_price": "175.8400",
+      "volume": "54764375"
+    },
+    "2023-10-17": {
+      "open_price": "176.6450",
+      "high_price": "178.4200",
+      "low_price": "174.8000",
+      "close_price": "177.1500",
+      "volume": "57549350"
+    },
+    "2023-10-16": {
+      "open_price": "176.7500",
+      "high_price": "179.0750",
+      "low_price": "176.5100",
+      "close_price": "178.7200",
+      "volume": "52516984"
+    },
+    "2023-10-13": {
+      "open_price": "181.4200",
+      "high_price": "181.9300",
+      "low_price": "178.1400",
+      "close_price": "178.8500",
+      "volume": "51456082"
+    },
+    "2023-10-12": {
+      "open_price": "180.0700",
+      "high_price": "182.3400",
+      "low_price": "179.0400",
+      "close_price": "180.7100",
+      "volume": "56743119"
+    },
+    "2023-10-11": {
+      "open_price": "178.2000",
+      "high_price": "179.8500",
+      "low_price": "177.6000",
+      "close_price": "179.8000",
+      "volume": "47551098"
+    },
+    "2023-10-10": {
+      "open_price": "178.1000",
+      "high_price": "179.7200",
+      "low_price": "177.9500",
+      "close_price": "178.3900",
+      "volume": "43698019"
+    },
+    "2023-10-09": {
+      "open_price": "176.8100",
+      "high_price": "179.0500",
+      "low_price": "175.8000",
+      "close_price": "178.9900",
+      "volume": "42390772"
+    },
+    "2023-10-06": {
+      "open_price": "173.8000",
+      "high_price": "177.9900",
+      "low_price": "173.1800",
+      "close_price": "177.4900",
+      "volume": "57266675"
+    },
+    "2023-10-05": {
+      "open_price": "173.7900",
+      "high_price": "175.4500",
+      "low_price": "172.6800",
+      "close_price": "174.9100",
+      "volume": "48527918"
+    },
+    "2023-10-04": {
+      "open_price": "171.0900",
+      "high_price": "174.2100",
+      "low_price": "170.9700",
+      "close_price": "173.6600",
+      "volume": "53020286"
+    },
+    "2023-10-03": {
+      "open_price": "172.2550",
+      "high_price": "173.6300",
+      "low_price": "170.8200",
+      "close_price": "172.4000",
+      "volume": "49594613"
+    },
+    "2023-10-02": {
+      "open_price": "171.2200",
+      "high_price": "174.3000",
+      "low_price": "170.9300",
+      "close_price": "173.7500",
+      "volume": "52164535"
+    },
+    "2023-09-29": {
+      "open_price": "172.0200",
+      "high_price": "173.0700",
+      "low_price": "170.3410",
+      "close_price": "171.2100",
+      "volume": "51861083"
+    },
+    "2023-09-28": {
+      "open_price": "169.3400",
+      "high_price": "172.0300",
+      "low_price": "167.6200",
+      "close_price": "170.6900",
+      "volume": "56294419"
+    },
+    "2023-09-27": {
+      "open_price": "172.6200",
+      "high_price": "173.0400",
+      "low_price": "169.0500",
+      "close_price": "170.4300",
+      "volume": "66921808"
+    },
+    "2023-09-26": {
+      "open_price": "174.8200",
+      "high_price": "175.2000",
+      "low_price": "171.6600",
+      "close_price": "171.9600",
+      "volume": "64588945"
+    },
+    "2023-09-25": {
+      "open_price": "174.2000",
+      "high_price": "176.9700",
+      "low_price": "174.1500",
+      "close_price": "176.0800",
+      "volume": "46172740"
+    },
+    "2023-09-22": {
+      "open_price": "174.6700",
+      "high_price": "177.0790",
+      "low_price": "174.0500",
+      "close_price": "174.7900",
+      "volume": "56725385"
+    },
+    "2023-09-21": {
+      "open_price": "174.5500",
+      "high_price": "176.3000",
+      "low_price": "173.8600",
+      "close_price": "173.9300",
+      "volume": "63149116"
+    },
+    "2023-09-20": {
+      "open_price": "179.2600",
+      "high_price": "179.6950",
+      "low_price": "175.4000",
+      "close_price": "175.4900",
+      "volume": "58436181"
+    },
+    "2023-09-19": {
+      "open_price": "177.5200",
+      "high_price": "179.6300",
+      "low_price": "177.1300",
+      "close_price": "179.0700",
+      "volume": "51826941"
+    },
+    "2023-09-18": {
+      "open_price": "176.4800",
+      "high_price": "179.3800",
+      "low_price": "176.1700",
+      "close_price": "177.9700",
+      "volume": "67257573"
+    },
+    "2023-09-15": {
+      "open_price": "176.4800",
+      "high_price": "176.4950",
+      "low_price": "173.8200",
+      "close_price": "175.0100",
+      "volume": "109259461"
+    },
+    "2023-09-14": {
+      "open_price": "174.0000",
+      "high_price": "176.1000",
+      "low_price": "173.5800",
+      "close_price": "175.7400",
+      "volume": "60895757"
+    },
+    "2023-09-13": {
+      "open_price": "176.5100",
+      "high_price": "177.3000",
+      "low_price": "173.9800",
+      "close_price": "174.2100",
+      "volume": "84267928"
+    },
+    "2023-09-12": {
+      "open_price": "179.4900",
+      "high_price": "180.1300",
+      "low_price": "174.8200",
+      "close_price": "176.3000",
+      "volume": "90370192"
+    },
+    "2023-09-11": {
+      "open_price": "180.0700",
+      "high_price": "180.3000",
+      "low_price": "177.3400",
+      "close_price": "179.3600",
+      "volume": "58953052"
+    },
+    "2023-09-08": {
+      "open_price": "178.3500",
+      "high_price": "180.2390",
+      "low_price": "177.7900",
+      "close_price": "178.1800",
+      "volume": "65602066"
+    },
+    "2023-09-07": {
+      "open_price": "175.1800",
+      "high_price": "178.2100",
+      "low_price": "173.5400",
+      "close_price": "177.5600",
+      "volume": "112488803"
+    },
+    "2023-09-06": {
+      "open_price": "188.4000",
+      "high_price": "188.8500",
+      "low_price": "181.4700",
+      "close_price": "182.9100",
+      "volume": "81755816"
+    },
+    "2023-09-05": {
+      "open_price": "188.2800",
+      "high_price": "189.9800",
+      "low_price": "187.6100",
+      "close_price": "189.7000",
+      "volume": "45280027"
+    },
+    "2023-09-01": {
+      "open_price": "189.4850",
+      "high_price": "189.9200",
+      "low_price": "188.2800",
+      "close_price": "189.4600",
+      "volume": "45766503"
+    },
+    "2023-08-31": {
+      "open_price": "187.8400",
+      "high_price": "189.1200",
+      "low_price": "187.4800",
+      "close_price": "187.8700",
+      "volume": "60794467"
+    },
+    "2023-08-30": {
+      "open_price": "184.9400",
+      "high_price": "187.8500",
+      "low_price": "184.7400",
+      "close_price": "187.6500",
+      "volume": "60813888"
+    },
+    "2023-08-29": {
+      "open_price": "179.6950",
+      "high_price": "184.9000",
+      "low_price": "179.5000",
+      "close_price": "184.1200",
+      "volume": "53003948"
+    },
+    "2023-08-28": {
+      "open_price": "180.0900",
+      "high_price": "180.5900",
+      "low_price": "178.5450",
+      "close_price": "180.1900",
+      "volume": "43820697"
+    },
+    "2023-08-25": {
+      "open_price": "177.3800",
+      "high_price": "179.1500",
+      "low_price": "175.8200",
+      "close_price": "178.6100",
+      "volume": "51449594"
+    },
+    "2023-08-24": {
+      "open_price": "180.6740",
+      "high_price": "181.1040",
+      "low_price": "176.0100",
+      "close_price": "176.3800",
+      "volume": "54945798"
+    },
+    "2023-08-23": {
+      "open_price": "178.5200",
+      "high_price": "181.5500",
+      "low_price": "178.3250",
+      "close_price": "181.1200",
+      "volume": "52722752"
+    },
+    "2023-08-22": {
+      "open_price": "177.0600",
+      "high_price": "177.6800",
+      "low_price": "176.2500",
+      "close_price": "177.2300",
+      "volume": "42084245"
+    },
+    "2023-08-21": {
+      "open_price": "175.0700",
+      "high_price": "176.1300",
+      "low_price": "173.7350",
+      "close_price": "175.8400",
+      "volume": "46311879"
+    },
+    "2023-08-18": {
+      "open_price": "172.3000",
+      "high_price": "175.1000",
+      "low_price": "171.9600",
+      "close_price": "174.4900",
+      "volume": "61172150"
+    },
+    "2023-08-17": {
+      "open_price": "177.1400",
+      "high_price": "177.5054",
+      "low_price": "173.4800",
+      "close_price": "174.0000",
+      "volume": "66062882"
+    },
+    "2023-08-16": {
+      "open_price": "177.1300",
+      "high_price": "178.5400",
+      "low_price": "176.5000",
+      "close_price": "176.5700",
+      "volume": "46964857"
+    },
+    "2023-08-15": {
+      "open_price": "178.8800",
+      "high_price": "179.4800",
+      "low_price": "177.0500",
+      "close_price": "177.4500",
+      "volume": "43622593"
+    },
+    "2023-08-14": {
+      "open_price": "177.9700",
+      "high_price": "179.6900",
+      "low_price": "177.3050",
+      "close_price": "179.4600",
+      "volume": "43675627"
+    },
+    "2023-08-11": {
+      "open_price": "177.3200",
+      "high_price": "178.6200",
+      "low_price": "176.5500",
+      "close_price": "177.7900",
+      "volume": "52036672"
+    },
+    "2023-08-10": {
+      "open_price": "179.4800",
+      "high_price": "180.7500",
+      "low_price": "177.6000",
+      "close_price": "177.9700",
+      "volume": "54686851"
+    },
+    "2023-08-09": {
+      "open_price": "180.8700",
+      "high_price": "180.9300",
+      "low_price": "177.0100",
+      "close_price": "178.1900",
+      "volume": "60378492"
+    },
+    "2023-08-08": {
+      "open_price": "179.6900",
+      "high_price": "180.2700",
+      "low_price": "177.5800",
+      "close_price": "179.8000",
+      "volume": "67823003"
+    },
+    "2023-08-07": {
+      "open_price": "182.1300",
+      "high_price": "183.1300",
+      "low_price": "177.3500",
+      "close_price": "178.8500",
+      "volume": "97576069"
+    },
+    "2023-08-04": {
+      "open_price": "185.5200",
+      "high_price": "187.3800",
+      "low_price": "181.9200",
+      "close_price": "181.9900",
+      "volume": "115956841"
+    },
+    "2023-08-03": {
+      "open_price": "191.5700",
+      "high_price": "192.3700",
+      "low_price": "190.6900",
+      "close_price": "191.1700",
+      "volume": "62243282"
+    },
+    "2023-08-02": {
+      "open_price": "195.0400",
+      "high_price": "195.1800",
+      "low_price": "191.8507",
+      "close_price": "192.5800",
+      "volume": "50389327"
+    },
+    "2023-08-01": {
+      "open_price": "196.2350",
+      "high_price": "196.7300",
+      "low_price": "195.2800",
+      "close_price": "195.6050",
+      "volume": "35281426"
+    },
+    "2023-07-31": {
+      "open_price": "196.0600",
+      "high_price": "196.4900",
+      "low_price": "195.2600",
+      "close_price": "196.4500",
+      "volume": "38824113"
+    },
+    "2023-07-28": {
+      "open_price": "194.6700",
+      "high_price": "196.6260",
+      "low_price": "194.1400",
+      "close_price": "195.8300",
+      "volume": "48291443"
+    },
+    "2023-07-27": {
+      "open_price": "196.0200",
+      "high_price": "197.2000",
+      "low_price": "192.5500",
+      "close_price": "193.2200",
+      "volume": "47460180"
+    },
+    "2023-07-26": {
+      "open_price": "193.6700",
+      "high_price": "195.6400",
+      "low_price": "193.3200",
+      "close_price": "194.5000",
+      "volume": "47471868"
+    },
+    "2023-07-25": {
+      "open_price": "193.3300",
+      "high_price": "194.4400",
+      "low_price": "192.9150",
+      "close_price": "193.6200",
+      "volume": "37283201"
+    },
+    "2023-07-24": {
+      "open_price": "193.4100",
+      "high_price": "194.9100",
+      "low_price": "192.2500",
+      "close_price": "192.7500",
+      "volume": "45505097"
+    },
+    "2023-07-21": {
+      "open_price": "194.1000",
+      "high_price": "194.9700",
+      "low_price": "191.2300",
+      "close_price": "191.9400",
+      "volume": "71951683"
+    },
+    "2023-07-20": {
+      "open_price": "195.0900",
+      "high_price": "196.4700",
+      "low_price": "192.4950",
+      "close_price": "193.1300",
+      "volume": "59581196"
+    },
+    "2023-07-19": {
+      "open_price": "193.1000",
+      "high_price": "198.2300",
+      "low_price": "192.6500",
+      "close_price": "195.1000",
+      "volume": "80507323"
+    },
+    "2023-07-18": {
+      "open_price": "193.3500",
+      "high_price": "194.3300",
+      "low_price": "192.4150",
+      "close_price": "193.7300",
+      "volume": "48353774"
+    },
+    "2023-07-17": {
+      "open_price": "191.9000",
+      "high_price": "194.3200",
+      "low_price": "191.8100",
+      "close_price": "193.9900",
+      "volume": "50520159"
+    },
+    "2023-07-14": {
+      "open_price": "190.2300",
+      "high_price": "191.1799",
+      "low_price": "189.6300",
+      "close_price": "190.6900",
+      "volume": "41616242"
+    },
+    "2023-07-13": {
+      "open_price": "190.5000",
+      "high_price": "191.1900",
+      "low_price": "189.7800",
+      "close_price": "190.5400",
+      "volume": "41342338"
+    },
+    "2023-07-12": {
+      "open_price": "189.6800",
+      "high_price": "191.7000",
+      "low_price": "188.4700",
+      "close_price": "189.7700",
+      "volume": "60750248"
+    },
+    "2023-07-11": {
+      "open_price": "189.1600",
+      "high_price": "189.3000",
+      "low_price": "186.6000",
+      "close_price": "188.0800",
+      "volume": "46638119"
+    },
+    "2023-07-10": {
+      "open_price": "189.2600",
+      "high_price": "189.9900",
+      "low_price": "187.0350",
+      "close_price": "188.6100",
+      "volume": "59922163"
+    },
+    "2023-07-07": {
+      "open_price": "191.4100",
+      "high_price": "192.6700",
+      "low_price": "190.2400",
+      "close_price": "190.6800",
+      "volume": "46814998"
+    },
+    "2023-07-06": {
+      "open_price": "189.8400",
+      "high_price": "192.0200",
+      "low_price": "189.2000",
+      "close_price": "191.8100",
+      "volume": "45156009"
+    },
+    "2023-07-05": {
+      "open_price": "191.5650",
+      "high_price": "192.9800",
+      "low_price": "190.6200",
+      "close_price": "191.3300",
+      "volume": "46920261"
+    },
+    "2023-07-03": {
+      "open_price": "193.7800",
+      "high_price": "193.8800",
+      "low_price": "191.7600",
+      "close_price": "192.4600",
+      "volume": "31458198"
+    },
+    "2023-06-30": {
+      "open_price": "191.6300",
+      "high_price": "194.4800",
+      "low_price": "191.2600",
+      "close_price": "193.9700",
+      "volume": "85213216"
+    },
+    "2023-06-29": {
+      "open_price": "189.0800",
+      "high_price": "190.0700",
+      "low_price": "188.9400",
+      "close_price": "189.5900",
+      "volume": "46347308"
+    },
+    "2023-06-28": {
+      "open_price": "187.9300",
+      "high_price": "189.9000",
+      "low_price": "187.6000",
+      "close_price": "189.2500",
+      "volume": "51216801"
+    },
+    "2023-06-27": {
+      "open_price": "185.8900",
+      "high_price": "188.3900",
+      "low_price": "185.6700",
+      "close_price": "188.0600",
+      "volume": "50730846"
+    },
+    "2023-06-26": {
+      "open_price": "186.8300",
+      "high_price": "188.0500",
+      "low_price": "185.2300",
+      "close_price": "185.2700",
+      "volume": "48088661"
+    },
+    "2023-06-23": {
+      "open_price": "185.5500",
+      "high_price": "187.5600",
+      "low_price": "185.0100",
+      "close_price": "186.6800",
+      "volume": "53116996"
+    },
+    "2023-06-22": {
+      "open_price": "183.7400",
+      "high_price": "187.0450",
+      "low_price": "183.6700",
+      "close_price": "187.0000",
+      "volume": "51245327"
+    },
+    "2023-06-21": {
+      "open_price": "184.9000",
+      "high_price": "185.4100",
+      "low_price": "182.5901",
+      "close_price": "183.9600",
+      "volume": "49515697"
+    },
+    "2023-06-20": {
+      "open_price": "184.4100",
+      "high_price": "186.1000",
+      "low_price": "184.4100",
+      "close_price": "185.0100",
+      "volume": "49799092"
+    },
+    "2023-06-16": {
+      "open_price": "186.7300",
+      "high_price": "186.9900",
+      "low_price": "184.2700",
+      "close_price": "184.9200",
+      "volume": "101256225"
+    },
+    "2023-06-15": {
+      "open_price": "183.9600",
+      "high_price": "186.5200",
+      "low_price": "183.7800",
+      "close_price": "186.0100",
+      "volume": "65433166"
+    },
+    "2023-06-14": {
+      "open_price": "183.3700",
+      "high_price": "184.3900",
+      "low_price": "182.0200",
+      "close_price": "183.9500",
+      "volume": "57462882"
+    },
+    "2023-06-13": {
+      "open_price": "182.8000",
+      "high_price": "184.1500",
+      "low_price": "182.4400",
+      "close_price": "183.3100",
+      "volume": "54929129"
+    },
+    "2023-06-12": {
+      "open_price": "181.2700",
+      "high_price": "183.8900",
+      "low_price": "180.9700",
+      "close_price": "183.7900",
+      "volume": "54754995"
+    },
+    "2023-06-09": {
+      "open_price": "181.5000",
+      "high_price": "182.2300",
+      "low_price": "180.6300",
+      "close_price": "180.9600",
+      "volume": "48899973"
+    },
+    "2023-06-08": {
+      "open_price": "177.8950",
+      "high_price": "180.8400",
+      "low_price": "177.4600",
+      "close_price": "180.5700",
+      "volume": "50214881"
+    },
+    "2023-06-07": {
+      "open_price": "178.4400",
+      "high_price": "181.2100",
+      "low_price": "177.3200",
+      "close_price": "177.8200",
+      "volume": "61944615"
+    },
+    "2023-06-06": {
+      "open_price": "179.9650",
+      "high_price": "180.1200",
+      "low_price": "177.4300",
+      "close_price": "179.2100",
+      "volume": "64848374"
+    },
+    "2023-06-05": {
+      "open_price": "182.6300",
+      "high_price": "184.9510",
+      "low_price": "178.0350",
+      "close_price": "179.5800",
+      "volume": "121946497"
+    },
+    "2023-06-02": {
+      "open_price": "181.0300",
+      "high_price": "181.7800",
+      "low_price": "179.2600",
+      "close_price": "180.9500",
+      "volume": "61996913"
+    },
+    "2023-06-01": {
+      "open_price": "177.7000",
+      "high_price": "180.1200",
+      "low_price": "176.9306",
+      "close_price": "180.0900",
+      "volume": "68901809"
+    },
+    "2023-05-31": {
+      "open_price": "177.3250",
+      "high_price": "179.3500",
+      "low_price": "176.7600",
+      "close_price": "177.2500",
+      "volume": "99313268"
+    },
+    "2023-05-30": {
+      "open_price": "176.9600",
+      "high_price": "178.9900",
+      "low_price": "176.5700",
+      "close_price": "177.3000",
+      "volume": "55964401"
+    },
+    "2023-05-26": {
+      "open_price": "173.3200",
+      "high_price": "175.7700",
+      "low_price": "173.1100",
+      "close_price": "175.4300",
+      "volume": "54834975"
+    },
+    "2023-05-25": {
+      "open_price": "172.4100",
+      "high_price": "173.8950",
+      "low_price": "171.6900",
+      "close_price": "172.9900",
+      "volume": "56058258"
+    },
+    "2023-05-24": {
+      "open_price": "171.0900",
+      "high_price": "172.4183",
+      "low_price": "170.5200",
+      "close_price": "171.8400",
+      "volume": "45143488"
+    },
+    "2023-05-23": {
+      "open_price": "173.1300",
+      "high_price": "173.3794",
+      "low_price": "171.2750",
+      "close_price": "171.5600",
+      "volume": "50747263"
+    },
+    "2023-05-22": {
+      "open_price": "173.9800",
+      "high_price": "174.7100",
+      "low_price": "173.4500",
+      "close_price": "174.2000",
+      "volume": "43570932"
+    },
+    "2023-05-19": {
+      "open_price": "176.3900",
+      "high_price": "176.3900",
+      "low_price": "174.9400",
+      "close_price": "175.1600",
+      "volume": "55809475"
+    },
+    "2023-05-18": {
+      "open_price": "173.0000",
+      "high_price": "175.2400",
+      "low_price": "172.5800",
+      "close_price": "175.0500",
+      "volume": "65496657"
+    },
+    "2023-05-17": {
+      "open_price": "171.7100",
+      "high_price": "172.9250",
+      "low_price": "170.4201",
+      "close_price": "172.6900",
+      "volume": "57951604"
+    },
+    "2023-05-16": {
+      "open_price": "171.9900",
+      "high_price": "173.1383",
+      "low_price": "171.7991",
+      "close_price": "172.0700",
+      "volume": "42110293"
+    },
+    "2023-05-15": {
+      "open_price": "173.1600",
+      "high_price": "173.2100",
+      "low_price": "171.4700",
+      "close_price": "172.0700",
+      "volume": "37266659"
+    },
+    "2023-05-12": {
+      "open_price": "173.6200",
+      "high_price": "174.0600",
+      "low_price": "171.0000",
+      "close_price": "172.5700",
+      "volume": "45533138"
+    },
+    "2023-05-11": {
+      "open_price": "173.8500",
+      "high_price": "174.5900",
+      "low_price": "172.1700",
+      "close_price": "173.7500",
+      "volume": "49514676"
+    },
+    "2023-05-10": {
+      "open_price": "173.0200",
+      "high_price": "174.0300",
+      "low_price": "171.9000",
+      "close_price": "173.5550",
+      "volume": "53724501"
+    },
+    "2023-05-09": {
+      "open_price": "173.0500",
+      "high_price": "173.5400",
+      "low_price": "171.6000",
+      "close_price": "171.7700",
+      "volume": "45326874"
+    },
+    "2023-05-08": {
+      "open_price": "172.4800",
+      "high_price": "173.8500",
+      "low_price": "172.1100",
+      "close_price": "173.5000",
+      "volume": "55962793"
+    },
+    "2023-05-05": {
+      "open_price": "170.9750",
+      "high_price": "174.3000",
+      "low_price": "170.7600",
+      "close_price": "173.5700",
+      "volume": "113453171"
+    },
+    "2023-05-04": {
+      "open_price": "164.8900",
+      "high_price": "167.0400",
+      "low_price": "164.3100",
+      "close_price": "165.7900",
+      "volume": "81235427"
+    },
+    "2023-05-03": {
+      "open_price": "169.5000",
+      "high_price": "170.9200",
+      "low_price": "167.1600",
+      "close_price": "167.4500",
+      "volume": "65136018"
+    },
+    "2023-05-02": {
+      "open_price": "170.0900",
+      "high_price": "170.3500",
+      "low_price": "167.5400",
+      "close_price": "168.5400",
+      "volume": "48425696"
+    },
+    "2023-05-01": {
+      "open_price": "169.2800",
+      "high_price": "170.4500",
+      "low_price": "168.6400",
+      "close_price": "169.5900",
+      "volume": "52472936"
+    },
+    "2023-04-28": {
+      "open_price": "168.4900",
+      "high_price": "169.8500",
+      "low_price": "167.8801",
+      "close_price": "169.6800",
+      "volume": "55275851"
+    },
+    "2023-04-27": {
+      "open_price": "165.1900",
+      "high_price": "168.5600",
+      "low_price": "165.1900",
+      "close_price": "168.4100",
+      "volume": "64902329"
+    },
+    "2023-04-26": {
+      "open_price": "163.0550",
+      "high_price": "165.2800",
+      "low_price": "162.8000",
+      "close_price": "163.7600",
+      "volume": "44105745"
+    },
+    "2023-04-25": {
+      "open_price": "165.1900",
+      "high_price": "166.3050",
+      "low_price": "163.7300",
+      "close_price": "163.7700",
+      "volume": "48714063"
+    },
+    "2023-04-24": {
+      "open_price": "165.0000",
+      "high_price": "165.6000",
+      "low_price": "163.8900",
+      "close_price": "165.3300",
+      "volume": "41949581"
+    },
+    "2023-04-21": {
+      "open_price": "165.0500",
+      "high_price": "166.4521",
+      "low_price": "164.4900",
+      "close_price": "165.0200",
+      "volume": "58337341"
+    },
+    "2023-04-20": {
+      "open_price": "166.0900",
+      "high_price": "167.8700",
+      "low_price": "165.5600",
+      "close_price": "166.6500",
+      "volume": "52456377"
+    },
+    "2023-04-19": {
+      "open_price": "165.8000",
+      "high_price": "168.1600",
+      "low_price": "165.5400",
+      "close_price": "167.6300",
+      "volume": "47720166"
+    },
+    "2023-04-18": {
+      "open_price": "166.1000",
+      "high_price": "167.4100",
+      "low_price": "165.6500",
+      "close_price": "166.4700",
+      "volume": "49923008"
+    },
+    "2023-04-17": {
+      "open_price": "165.0900",
+      "high_price": "165.3900",
+      "low_price": "164.0300",
+      "close_price": "165.2300",
+      "volume": "40713618"
+    },
+    "2023-04-14": {
+      "open_price": "164.5900",
+      "high_price": "166.3200",
+      "low_price": "163.8200",
+      "close_price": "165.2100",
+      "volume": "49386480"
+    },
+    "2023-04-13": {
+      "open_price": "161.6300",
+      "high_price": "165.8000",
+      "low_price": "161.4200",
+      "close_price": "165.5600",
+      "volume": "68445649"
+    },
+    "2023-04-12": {
+      "open_price": "161.2200",
+      "high_price": "162.0600",
+      "low_price": "159.7800",
+      "close_price": "160.1000",
+      "volume": "50133062"
+    },
+    "2023-04-11": {
+      "open_price": "162.3500",
+      "high_price": "162.3600",
+      "low_price": "160.5100",
+      "close_price": "160.8000",
+      "volume": "47644217"
+    },
+    "2023-04-10": {
+      "open_price": "161.4200",
+      "high_price": "162.0300",
+      "low_price": "160.0800",
+      "close_price": "162.0300",
+      "volume": "47716882"
+    },
+    "2023-04-06": {
+      "open_price": "162.4300",
+      "high_price": "164.9584",
+      "low_price": "162.0000",
+      "close_price": "164.6600",
+      "volume": "45390123"
+    },
+    "2023-04-05": {
+      "open_price": "164.7400",
+      "high_price": "165.0500",
+      "low_price": "161.8000",
+      "close_price": "163.7600",
+      "volume": "51511744"
+    },
+    "2023-04-04": {
+      "open_price": "166.5950",
+      "high_price": "166.8400",
+      "low_price": "165.1100",
+      "close_price": "165.6300",
+      "volume": "46278295"
+    },
+    "2023-04-03": {
+      "open_price": "164.2700",
+      "high_price": "166.2900",
+      "low_price": "164.2200",
+      "close_price": "166.1700",
+      "volume": "56976187"
+    },
+    "2023-03-31": {
+      "open_price": "162.4400",
+      "high_price": "165.0000",
+      "low_price": "161.9100",
+      "close_price": "164.9000",
+      "volume": "68749792"
+    },
+    "2023-03-30": {
+      "open_price": "161.5300",
+      "high_price": "162.4700",
+      "low_price": "161.2710",
+      "close_price": "162.3600",
+      "volume": "49501689"
+    },
+    "2023-03-29": {
+      "open_price": "159.3700",
+      "high_price": "161.0500",
+      "low_price": "159.3500",
+      "close_price": "160.7700",
+      "volume": "51305691"
+    },
+    "2023-03-28": {
+      "open_price": "157.9700",
+      "high_price": "158.4900",
+      "low_price": "155.9800",
+      "close_price": "157.6500",
+      "volume": "45992152"
+    },
+    "2023-03-27": {
+      "open_price": "159.9400",
+      "high_price": "160.7700",
+      "low_price": "157.8700",
+      "close_price": "158.2800",
+      "volume": "52390266"
+    },
+    "2023-03-24": {
+      "open_price": "158.8600",
+      "high_price": "160.3400",
+      "low_price": "157.8500",
+      "close_price": "160.2500",
+      "volume": "59256343"
+    },
+    "2023-03-23": {
+      "open_price": "158.8300",
+      "high_price": "161.5501",
+      "low_price": "157.6800",
+      "close_price": "158.9300",
+      "volume": "67622060"
+    },
+    "2023-03-22": {
+      "open_price": "159.3000",
+      "high_price": "162.1400",
+      "low_price": "157.8100",
+      "close_price": "157.8300",
+      "volume": "75701811"
+    },
+    "2023-03-21": {
+      "open_price": "157.3200",
+      "high_price": "159.4000",
+      "low_price": "156.5400",
+      "close_price": "159.2800",
+      "volume": "73938285"
+    },
+    "2023-03-20": {
+      "open_price": "155.0700",
+      "high_price": "157.8200",
+      "low_price": "154.1500",
+      "close_price": "157.4000",
+      "volume": "73641415"
+    },
+    "2023-03-17": {
+      "open_price": "156.0800",
+      "high_price": "156.7400",
+      "low_price": "154.2800",
+      "close_price": "155.0000",
+      "volume": "98944633"
+    },
+    "2023-03-16": {
+      "open_price": "152.1600",
+      "high_price": "156.4600",
+      "low_price": "151.6400",
+      "close_price": "155.8500",
+      "volume": "76254419"
+    },
+    "2023-03-15": {
+      "open_price": "151.1900",
+      "high_price": "153.2450",
+      "low_price": "149.9200",
+      "close_price": "152.9900",
+      "volume": "77167866"
+    },
+    "2023-03-14": {
+      "open_price": "151.2800",
+      "high_price": "153.4000",
+      "low_price": "150.1000",
+      "close_price": "152.5900",
+      "volume": "73695893"
+    },
+    "2023-03-13": {
+      "open_price": "147.8050",
+      "high_price": "153.1400",
+      "low_price": "147.7000",
+      "close_price": "150.4700",
+      "volume": "84457122"
+    },
+    "2023-03-10": {
+      "open_price": "150.2100",
+      "high_price": "150.9400",
+      "low_price": "147.6096",
+      "close_price": "148.5000",
+      "volume": "68572400"
+    },
+    "2023-03-09": {
+      "open_price": "153.5590",
+      "high_price": "154.5350",
+      "low_price": "150.2250",
+      "close_price": "150.5900",
+      "volume": "53833582"
+    },
+    "2023-03-08": {
+      "open_price": "152.8100",
+      "high_price": "153.4700",
+      "low_price": "151.8300",
+      "close_price": "152.8700",
+      "volume": "47204791"
+    },
+    "2023-03-07": {
+      "open_price": "153.7000",
+      "high_price": "154.0299",
+      "low_price": "151.1300",
+      "close_price": "151.6000",
+      "volume": "56182028"
+    },
+    "2023-03-06": {
+      "open_price": "153.7850",
+      "high_price": "156.3000",
+      "low_price": "153.4600",
+      "close_price": "153.8300",
+      "volume": "87558028"
+    },
+    "2023-03-03": {
+      "open_price": "148.0450",
+      "high_price": "151.1100",
+      "low_price": "147.3300",
+      "close_price": "151.0300",
+      "volume": "70732297"
+    },
+    "2023-03-02": {
+      "open_price": "144.3800",
+      "high_price": "146.7100",
+      "low_price": "143.9000",
+      "close_price": "145.9100",
+      "volume": "52279761"
+    },
+    "2023-03-01": {
+      "open_price": "146.8300",
+      "high_price": "147.2285",
+      "low_price": "145.0100",
+      "close_price": "145.3100",
+      "volume": "55478991"
+    },
+    "2023-02-28": {
+      "open_price": "147.0500",
+      "high_price": "149.0800",
+      "low_price": "146.8300",
+      "close_price": "147.4100",
+      "volume": "50546998"
+    },
+    "2023-02-27": {
+      "open_price": "147.7100",
+      "high_price": "149.1700",
+      "low_price": "147.4500",
+      "close_price": "147.9200",
+      "volume": "44998470"
+    },
+    "2023-02-24": {
+      "open_price": "147.1100",
+      "high_price": "147.1900",
+      "low_price": "145.7202",
+      "close_price": "146.7100",
+      "volume": "55469606"
+    },
+    "2023-02-23": {
+      "open_price": "150.0900",
+      "high_price": "150.3400",
+      "low_price": "147.2400",
+      "close_price": "149.4000",
+      "volume": "48394249"
+    },
+    "2023-02-22": {
+      "open_price": "148.8700",
+      "high_price": "149.9500",
+      "low_price": "147.1600",
+      "close_price": "148.9100",
+      "volume": "51011305"
+    },
+    "2023-02-21": {
+      "open_price": "150.2000",
+      "high_price": "151.3000",
+      "low_price": "148.4050",
+      "close_price": "148.4800",
+      "volume": "58867230"
+    },
+    "2023-02-17": {
+      "open_price": "152.3500",
+      "high_price": "153.0000",
+      "low_price": "150.8500",
+      "close_price": "152.5500",
+      "volume": "59144118"
+    },
+    "2023-02-16": {
+      "open_price": "153.5100",
+      "high_price": "156.3300",
+      "low_price": "153.3475",
+      "close_price": "153.7100",
+      "volume": "68167942"
+    },
+    "2023-02-15": {
+      "open_price": "153.1100",
+      "high_price": "155.5000",
+      "low_price": "152.8800",
+      "close_price": "155.3300",
+      "volume": "65669252"
+    },
+    "2023-02-14": {
+      "open_price": "152.1200",
+      "high_price": "153.7700",
+      "low_price": "150.8600",
+      "close_price": "153.2000",
+      "volume": "61707573"
+    },
+    "2023-02-13": {
+      "open_price": "150.9520",
+      "high_price": "154.2600",
+      "low_price": "150.9200",
+      "close_price": "153.8500",
+      "volume": "62199013"
+    },
+    "2023-02-10": {
+      "open_price": "149.4600",
+      "high_price": "151.3401",
+      "low_price": "149.2200",
+      "close_price": "151.0100",
+      "volume": "57450708"
+    },
+    "2023-02-09": {
+      "open_price": "153.7750",
+      "high_price": "154.3300",
+      "low_price": "150.4200",
+      "close_price": "150.8700",
+      "volume": "56007143"
+    },
+    "2023-02-08": {
+      "open_price": "153.8800",
+      "high_price": "154.5800",
+      "low_price": "151.1680",
+      "close_price": "151.9200",
+      "volume": "64120079"
+    },
+    "2023-02-07": {
+      "open_price": "150.6400",
+      "high_price": "155.2300",
+      "low_price": "150.6400",
+      "close_price": "154.6500",
+      "volume": "83322551"
+    },
+    "2023-02-06": {
+      "open_price": "152.5750",
+      "high_price": "153.1000",
+      "low_price": "150.7800",
+      "close_price": "151.7300",
+      "volume": "69858306"
+    },
+    "2023-02-03": {
+      "open_price": "148.0300",
+      "high_price": "157.3800",
+      "low_price": "147.8300",
+      "close_price": "154.5000",
+      "volume": "154357337"
+    },
+    "2023-02-02": {
+      "open_price": "148.9000",
+      "high_price": "151.1800",
+      "low_price": "148.1700",
+      "close_price": "150.8200",
+      "volume": "118338980"
+    },
+    "2023-02-01": {
+      "open_price": "143.9700",
+      "high_price": "146.6100",
+      "low_price": "141.3200",
+      "close_price": "145.4300",
+      "volume": "77663633"
+    },
+    "2023-01-31": {
+      "open_price": "142.7000",
+      "high_price": "144.3400",
+      "low_price": "142.2800",
+      "close_price": "144.2900",
+      "volume": "65874459"
+    },
+    "2023-01-30": {
+      "open_price": "144.9550",
+      "high_price": "145.5500",
+      "low_price": "142.8500",
+      "close_price": "143.0000",
+      "volume": "64015274"
+    },
+    "2023-01-27": {
+      "open_price": "143.1550",
+      "high_price": "147.2300",
+      "low_price": "143.0800",
+      "close_price": "145.9300",
+      "volume": "70555843"
+    },
+    "2023-01-26": {
+      "open_price": "143.1700",
+      "high_price": "144.2500",
+      "low_price": "141.9000",
+      "close_price": "143.9600",
+      "volume": "54105068"
+    },
+    "2023-01-25": {
+      "open_price": "140.8900",
+      "high_price": "142.4300",
+      "low_price": "138.8100",
+      "close_price": "141.8600",
+      "volume": "65799349"
+    },
+    "2023-01-24": {
+      "open_price": "140.3050",
+      "high_price": "143.1600",
+      "low_price": "140.3000",
+      "close_price": "142.5300",
+      "volume": "66435142"
+    },
+    "2023-01-23": {
+      "open_price": "138.1200",
+      "high_price": "143.3150",
+      "low_price": "137.9000",
+      "close_price": "141.1100",
+      "volume": "81760313"
+    },
+    "2023-01-20": {
+      "open_price": "135.2800",
+      "high_price": "138.0200",
+      "low_price": "134.2200",
+      "close_price": "137.8700",
+      "volume": "80223626"
+    },
+    "2023-01-19": {
+      "open_price": "134.0800",
+      "high_price": "136.2500",
+      "low_price": "133.7700",
+      "close_price": "135.2700",
+      "volume": "58280413"
+    },
+    "2023-01-18": {
+      "open_price": "136.8150",
+      "high_price": "138.6100",
+      "low_price": "135.0300",
+      "close_price": "135.2100",
+      "volume": "69672800"
+    },
+    "2023-01-17": {
+      "open_price": "134.8300",
+      "high_price": "137.2900",
+      "low_price": "134.1300",
+      "close_price": "135.9400",
+      "volume": "63646627"
+    },
+    "2023-01-13": {
+      "open_price": "132.0300",
+      "high_price": "134.9200",
+      "low_price": "131.6600",
+      "close_price": "134.7600",
+      "volume": "57809719"
+    },
+    "2023-01-12": {
+      "open_price": "133.8800",
+      "high_price": "134.2600",
+      "low_price": "131.4400",
+      "close_price": "133.4100",
+      "volume": "71379648"
+    },
+    "2023-01-11": {
+      "open_price": "131.2500",
+      "high_price": "133.5100",
+      "low_price": "130.4600",
+      "close_price": "133.4900",
+      "volume": "69458949"
+    },
+    "2023-01-10": {
+      "open_price": "130.2600",
+      "high_price": "131.2636",
+      "low_price": "128.1200",
+      "close_price": "130.7300",
+      "volume": "63896155"
+    },
+    "2023-01-09": {
+      "open_price": "130.4650",
+      "high_price": "133.4100",
+      "low_price": "129.8900",
+      "close_price": "130.1500",
+      "volume": "70790813"
+    },
+    "2023-01-06": {
+      "open_price": "126.0100",
+      "high_price": "130.2900",
+      "low_price": "124.8900",
+      "close_price": "129.6200",
+      "volume": "87754715"
+    },
+    "2023-01-05": {
+      "open_price": "127.1300",
+      "high_price": "127.7700",
+      "low_price": "124.7600",
+      "close_price": "125.0200",
+      "volume": "80962708"
+    },
+    "2023-01-04": {
+      "open_price": "126.8900",
+      "high_price": "128.6557",
+      "low_price": "125.0800",
+      "close_price": "126.3600",
+      "volume": "89113633"
+    },
+    "2023-01-03": {
+      "open_price": "130.2800",
+      "high_price": "130.9000",
+      "low_price": "124.1700",
+      "close_price": "125.0700",
+      "volume": "112117471"
+    },
+    "2022-12-30": {
+      "open_price": "128.4100",
+      "high_price": "129.9500",
+      "low_price": "127.4300",
+      "close_price": "129.9300",
+      "volume": "77034209"
+    },
+    "2022-12-29": {
+      "open_price": "127.9900",
+      "high_price": "130.4814",
+      "low_price": "127.7300",
+      "close_price": "129.6100",
+      "volume": "75703710"
+    },
+    "2022-12-28": {
+      "open_price": "129.6700",
+      "high_price": "131.0275",
+      "low_price": "125.8700",
+      "close_price": "126.0400",
+      "volume": "85438391"
+    },
+    "2022-12-27": {
+      "open_price": "131.3800",
+      "high_price": "131.4100",
+      "low_price": "128.7200",
+      "close_price": "130.0300",
+      "volume": "69007830"
+    },
+    "2022-12-23": {
+      "open_price": "130.9200",
+      "high_price": "132.4150",
+      "low_price": "129.6400",
+      "close_price": "131.8600",
+      "volume": "63814893"
+    },
+    "2022-12-22": {
+      "open_price": "134.3520",
+      "high_price": "134.5600",
+      "low_price": "130.3000",
+      "close_price": "132.2300",
+      "volume": "77852108"
+    },
+    "2022-12-21": {
+      "open_price": "132.9800",
+      "high_price": "136.8100",
+      "low_price": "132.7500",
+      "close_price": "135.4500",
+      "volume": "85927993"
+    },
+    "2022-12-20": {
+      "open_price": "131.3900",
+      "high_price": "133.2500",
+      "low_price": "129.8900",
+      "close_price": "132.3000",
+      "volume": "77432819"
+    },
+    "2022-12-19": {
+      "open_price": "135.1100",
+      "high_price": "135.2000",
+      "low_price": "131.3200",
+      "close_price": "132.3700",
+      "volume": "79592614"
+    },
+    "2022-12-16": {
+      "open_price": "136.6850",
+      "high_price": "137.6500",
+      "low_price": "133.7300",
+      "close_price": "134.5100",
+      "volume": "160156900"
+    },
+    "2022-12-15": {
+      "open_price": "141.1100",
+      "high_price": "141.8000",
+      "low_price": "136.0250",
+      "close_price": "136.5000",
+      "volume": "98931907"
+    },
+    "2022-12-14": {
+      "open_price": "145.3500",
+      "high_price": "146.6550",
+      "low_price": "141.1600",
+      "close_price": "143.2100",
+      "volume": "82291182"
+    },
+    "2022-12-13": {
+      "open_price": "149.5000",
+      "high_price": "149.9692",
+      "low_price": "144.2400",
+      "close_price": "145.4700",
+      "volume": "93886161"
+    },
+    "2022-12-12": {
+      "open_price": "142.7000",
+      "high_price": "144.5000",
+      "low_price": "141.0600",
+      "close_price": "144.4900",
+      "volume": "70462654"
+    },
+    "2022-12-09": {
+      "open_price": "142.3400",
+      "high_price": "145.5700",
+      "low_price": "140.9000",
+      "close_price": "142.1600",
+      "volume": "76097011"
+    },
+    "2022-12-08": {
+      "open_price": "142.3600",
+      "high_price": "143.5200",
+      "low_price": "141.1000",
+      "close_price": "142.6500",
+      "volume": "62128338"
+    },
+    "2022-12-07": {
+      "open_price": "142.1900",
+      "high_price": "143.3700",
+      "low_price": "140.0000",
+      "close_price": "140.9400",
+      "volume": "69721094"
+    },
+    "2022-12-06": {
+      "open_price": "147.0750",
+      "high_price": "147.3000",
+      "low_price": "141.9200",
+      "close_price": "142.9100",
+      "volume": "64727186"
+    },
+    "2022-12-05": {
+      "open_price": "147.7700",
+      "high_price": "150.9199",
+      "low_price": "145.7700",
+      "close_price": "146.6300",
+      "volume": "68826442"
+    },
+    "2022-12-02": {
+      "open_price": "145.9600",
+      "high_price": "148.0000",
+      "low_price": "145.6500",
+      "close_price": "147.8100",
+      "volume": "65447446"
+    },
+    "2022-12-01": {
+      "open_price": "148.2100",
+      "high_price": "149.1300",
+      "low_price": "146.6100",
+      "close_price": "148.3100",
+      "volume": "71250416"
+    },
+    "2022-11-30": {
+      "open_price": "141.3950",
+      "high_price": "148.7200",
+      "low_price": "140.5500",
+      "close_price": "148.0300",
+      "volume": "111380880"
+    },
+    "2022-11-29": {
+      "open_price": "144.2900",
+      "high_price": "144.8100",
+      "low_price": "140.3550",
+      "close_price": "141.1700",
+      "volume": "83763803"
+    },
+    "2022-11-28": {
+      "open_price": "145.1400",
+      "high_price": "146.6400",
+      "low_price": "143.3800",
+      "close_price": "144.2200",
+      "volume": "69346522"
+    },
+    "2022-11-25": {
+      "open_price": "148.3050",
+      "high_price": "148.8800",
+      "low_price": "147.1200",
+      "close_price": "148.1100",
+      "volume": "35195860"
+    },
+    "2022-11-23": {
+      "open_price": "149.4500",
+      "high_price": "151.8300",
+      "low_price": "149.3400",
+      "close_price": "151.0700",
+      "volume": "58301395"
+    },
+    "2022-11-22": {
+      "open_price": "148.1300",
+      "high_price": "150.4200",
+      "low_price": "146.9250",
+      "close_price": "150.1800",
+      "volume": "51804132"
+    },
+    "2022-11-21": {
+      "open_price": "150.1600",
+      "high_price": "150.3700",
+      "low_price": "147.7150",
+      "close_price": "148.0100",
+      "volume": "58724070"
+    },
+    "2022-11-18": {
+      "open_price": "152.3050",
+      "high_price": "152.7000",
+      "low_price": "149.9700",
+      "close_price": "151.2900",
+      "volume": "74829573"
+    },
+    "2022-11-17": {
+      "open_price": "146.4300",
+      "high_price": "151.4800",
+      "low_price": "146.1500",
+      "close_price": "150.7200",
+      "volume": "80389400"
+    },
+    "2022-11-16": {
+      "open_price": "149.1300",
+      "high_price": "149.8700",
+      "low_price": "147.2900",
+      "close_price": "148.7900",
+      "volume": "64218266"
+    },
+    "2022-11-15": {
+      "open_price": "152.2150",
+      "high_price": "153.5900",
+      "low_price": "148.5613",
+      "close_price": "150.0400",
+      "volume": "89868332"
+    },
+    "2022-11-14": {
+      "open_price": "148.9700",
+      "high_price": "150.2800",
+      "low_price": "147.4300",
+      "close_price": "148.2800",
+      "volume": "73374114"
+    },
+    "2022-11-11": {
+      "open_price": "145.8200",
+      "high_price": "150.0100",
+      "low_price": "144.3700",
+      "close_price": "149.7000",
+      "volume": "93979665"
+    },
+    "2022-11-10": {
+      "open_price": "141.2400",
+      "high_price": "146.8700",
+      "low_price": "139.5000",
+      "close_price": "146.8700",
+      "volume": "118854028"
+    },
+    "2022-11-09": {
+      "open_price": "138.5000",
+      "high_price": "138.5500",
+      "low_price": "134.5933",
+      "close_price": "134.8700",
+      "volume": "74917794"
+    },
+    "2022-11-08": {
+      "open_price": "140.4100",
+      "high_price": "141.4300",
+      "low_price": "137.4900",
+      "close_price": "139.5000",
+      "volume": "89908477"
+    },
+    "2022-11-07": {
+      "open_price": "137.1100",
+      "high_price": "139.1450",
+      "low_price": "135.6710",
+      "close_price": "138.9200",
+      "volume": "83374628"
+    },
+    "2022-11-04": {
+      "open_price": "142.0900",
+      "high_price": "142.6700",
+      "low_price": "134.3800",
+      "close_price": "138.3800",
+      "volume": "140814796"
+    },
+    "2022-11-03": {
+      "open_price": "142.0600",
+      "high_price": "142.8000",
+      "low_price": "138.7500",
+      "close_price": "138.8800",
+      "volume": "97918516"
+    },
+    "2022-11-02": {
+      "open_price": "148.9450",
+      "high_price": "152.1700",
+      "low_price": "145.0000",
+      "close_price": "145.0300",
+      "volume": "93604623"
+    },
+    "2022-11-01": {
+      "open_price": "155.0800",
+      "high_price": "155.4500",
+      "low_price": "149.1300",
+      "close_price": "150.6500",
+      "volume": "80379345"
+    },
+    "2022-10-31": {
+      "open_price": "153.1550",
+      "high_price": "154.2400",
+      "low_price": "151.9200",
+      "close_price": "153.3400",
+      "volume": "97943171"
+    },
+    "2022-10-28": {
+      "open_price": "148.2000",
+      "high_price": "157.5000",
+      "low_price": "147.8200",
+      "close_price": "155.7400",
+      "volume": "164762371"
+    },
+    "2022-10-27": {
+      "open_price": "148.0700",
+      "high_price": "149.0460",
+      "low_price": "144.1300",
+      "close_price": "144.8000",
+      "volume": "109180150"
+    },
+    "2022-10-26": {
+      "open_price": "150.9600",
+      "high_price": "151.9900",
+      "low_price": "148.0400",
+      "close_price": "149.3500",
+      "volume": "88436172"
+    },
+    "2022-10-25": {
+      "open_price": "150.0900",
+      "high_price": "152.4900",
+      "low_price": "149.3600",
+      "close_price": "152.3400",
+      "volume": "74732290"
+    },
+    "2022-10-24": {
+      "open_price": "147.1850",
+      "high_price": "150.2300",
+      "low_price": "146.0000",
+      "close_price": "149.4500",
+      "volume": "75981918"
+    }
+  }
