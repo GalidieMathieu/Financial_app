@@ -7,5 +7,3 @@ reportlab
 pandas
 numpy
 scikit-learn
-whitenoise
-dj-database-url

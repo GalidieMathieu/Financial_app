@@ -17,13 +17,6 @@ from decouple import config
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# Set STATIC_ROOT for collecting static files in production
-STATIC_ROOT = BASE_DIR / 'staticfiles'
-
-# Additional directories to look for static files during development
-STATICFILES_DIRS = [
-    BASE_DIR / 'static',
-]
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
@@ -64,10 +57,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 ROOT_URLCONF = 'financial_project.urls'
 
 TEMPLATES = [
@@ -92,7 +83,7 @@ WSGI_APPLICATION = 'financial_project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
-url = urlparse(os.getenv('DATABASE_URL', 'postgres://postgres:p03dc067b73aa5fa45972dc5b17a166634b5110c555ef45cad5cd2fe3e83cdf04@db:5432/d3vb68ruqp6naq'))
+url = urlparse(os.getenv('DATABASE_URL', 'postgres://postgres:mathieu1801@db:5432/financial_data'))
 
 DATABASES = {
     'default': {
